@@ -12,6 +12,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.dat.android.gamebit.R
 import com.dat.android.gamebit.presentation.black.BlackActivity
 import com.dat.android.gamebit.presentation.menu.MenuActivity
+import com.dat.android.gamebit.utils.Analytics
 import kotlinx.android.synthetic.main.activity_splash.*
 
 class SplashActivity : AppCompatActivity(R.layout.activity_splash) {
@@ -21,12 +22,13 @@ class SplashActivity : AppCompatActivity(R.layout.activity_splash) {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         updateUI()
+        Analytics.open()
 
         vm = ViewModelProviders.of(this).get(SplashVM::class.java)
         vm.getStatusLD().observe(this, Observer {
             when (it) {
-                SplashVM.BLACK -> openBlack()
-                SplashVM.WHITE -> openWhite()
+                SplashVM.BLACK -> openScreen()
+                SplashVM.WHITE -> openMenu()
             }
         })
 
@@ -48,13 +50,15 @@ class SplashActivity : AppCompatActivity(R.layout.activity_splash) {
         anim.start()
     }
 
-    private fun openBlack(){
+    private fun openScreen(){
+        Analytics.openScreen()
         intent = Intent(this@SplashActivity, BlackActivity::class.java)
         startActivity(intent)
         finish()
     }
 
-    private fun openWhite(){
+    private fun openMenu(){
+        Analytics.openMenu()
         intent = Intent(this@SplashActivity, MenuActivity::class.java)
         startActivity(intent)
         finish()
