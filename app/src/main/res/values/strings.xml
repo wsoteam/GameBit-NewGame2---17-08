@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GameBit</string>
+    <string name="splash_title">Gamebit</string>
+
+    <string name="name_high1">Mike</string>
+    <string name="name_high2">Alex11</string>
+    <string name="name_high3">IHolly)</string>
+    <string name="name_high4">Unknown user</string>
+    <string name="name_high5">Thomas</string>
+
+    <string name="result_name_high1">5000</string>
+    <string name="result_name_high2">5000</string>
+    <string name="result_name_high3">4950</string>
+    <string name="result_name_high4">4900</string>
+    <string name="result_name_high5">4750</string>
+
+    <string-array name="TitleNotification">
+        <item>🎲 Онлайн-слоты на реальные деньги 🎲</item>
+        <item>🎲 Онлайн-слоты на реальные деньги 🎲</item>
+    </string-array>
+
+    <string-array name="TextNotification">
+        <item>💰 Выйгрыши просто невероятно большие! 💰</item>
+        <item>💰 Выйгрыши просто невероятно большие! 💰</item>
+    </string-array>
+
+    <string name="facebook_app_id">779921846227453</string>
+    <string name="fb_login_protocol_scheme">fb779921846227453</string>
+</resources>

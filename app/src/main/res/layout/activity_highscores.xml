@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.highscore.HighscoresActivity"
+    android:background="@drawable/gradient_splash"
+    android:id="@+id/fl_background_highscores">
+
+
+    <ImageView
+        android:id="@+id/iv_back_menu_from_highscores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:src="@drawable/ic_btn_back"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/poppinsbold"
+        android:text="Highscores"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_marginTop="90dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_highscores_line_1_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+            android:fontFamily="@font/poppinsmed"
+            android:textStyle="normal"
+            android:textSize="26sp"
+            android:textColor="#ffffff"
+            android:text="1." />
+
+        <TextView
+            android:id="@+id/tv_highscores_line_1_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/poppinsmed"
+            android:textStyle="normal"
+            android:textSize="26sp"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:text="@string/name_high1" />
+
+        <TextView
+            android:id="@+id/tv_highscores_line_1_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginEnd="120dp"
+            android:fontFamily="@font/poppinsmed"
+            android:textStyle="normal"
+            android:textSize="26sp"
+            android:textColor="#ffffff"
+            android:text="@string/result_name_high1" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_highscores_color_line_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/ic_line_green_setting">
+
+    <TextView
+        android:id="@+id/tv_highscores_line_2_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:fontFamily="@font/poppinsmed"
+        android:textStyle="normal"
+        android:textSize="26sp"
+        android:textColor="#ffffff"
+        android:text="2." />
+
+    <TextView
+        android:id="@+id/tv_highscores_line_2_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/poppinsmed"
+        android:textStyle="normal"
+        android:textSize="26sp"
+        android:textColor="#ffffff"
+        android:gravity="center_horizontal"
+        android:text="@string/name_high2" />
+
+    <TextView
+        android:id="@+id/tv_highscores_line_2_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginEnd="120dp"
+        android:fontFamily="@font/poppinsmed"
+        android:textStyle="normal"
+        android:textSize="26sp"
+        android:textColor="#ffffff"
+        android:text="@string/result_name_high2" />
+</FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp">
+
+            <TextView
+                android:id="@+id/tv_highscores_line_3_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="3." />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_3_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:gravity="center_horizontal"
+                android:text="@string/name_high3" />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_3_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="@string/result_name_high3" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/fl_highscores_color_line_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/ic_line_green_setting">
+
+            <TextView
+                android:id="@+id/tv_highscores_line_4_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="4." />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_4_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:gravity="center_horizontal"
+                android:text="@string/name_high4" />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_4_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="@string/result_name_high4" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp">
+
+            <TextView
+                android:id="@+id/tv_highscores_line_5_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="5." />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_5_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:gravity="center_horizontal"
+                android:text="@string/name_high5" />
+
+            <TextView
+                android:id="@+id/tv_highscores_line_5_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="120dp"
+                android:fontFamily="@font/poppinsmed"
+                android:textStyle="normal"
+                android:textSize="26sp"
+                android:textColor="#ffffff"
+                android:text="@string/result_name_high5" />
+        </FrameLayout>
+
+    </LinearLayout>
+</FrameLayout>

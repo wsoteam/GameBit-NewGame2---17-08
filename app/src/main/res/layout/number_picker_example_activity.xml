@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:background="#000000">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/ic_rectangle_sum">
+
+        <ImageView
+            android:id="@+id/ivLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="8dp"
+            android:src="@drawable/ic_left_bet"/>
+
+
+        <com.shawnlin.numberpicker.NumberPicker
+            android:id="@+id/npBet"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            app:np_orientation="horizontal"
+            app:np_dividerColor="#00FFFFFF"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            app:np_wheelItemCount="5"
+            app:np_textSize="25sp"
+            app:np_selectedTextColor="#ffffff"
+            app:np_textColor="#66FFFFFF"
+            app:np_fadingEdgeEnabled="false"/>
+
+        <ImageView
+            android:id="@+id/ivRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_right_bet"
+            android:layout_gravity="end|center_vertical"
+            android:padding="8dp"/>
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.SplashActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/gradient_splash"/>
+
+    <ImageView
+        android:layout_width="104dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="240dp"
+        android:src="@drawable/fishka1p" />
+
+    <ImageView
+        android:layout_width="195dp"
+        android:layout_height="280dp"
+        android:layout_gravity="bottom"
+        android:padding="0dp"
+        android:src="@drawable/ic_rulet_splash" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:layout_gravity="end"
+        android:src="@drawable/ic_card_splash" />
+
+    <ImageView
+        android:layout_width="124dp"
+        android:layout_height="71dp"
+        android:layout_gravity="bottom|end"
+        android:padding="0dp"
+        android:layout_marginEnd="117dp"
+        android:src="@drawable/fishsplash2" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsbold"
+        android:textStyle="bold"
+        android:textSize="82dp"
+        android:textColor="#ffffff"
+        android:text="Gamebit" />
+
+    <ImageView
+        android:id="@+id/iv_roulette_splash_giv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_roulette_gif_splash" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="12dp"
+            android:fontFamily="@font/poppinsregular"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:text="Loading" />
+
+    </LinearLayout>
+</FrameLayout>

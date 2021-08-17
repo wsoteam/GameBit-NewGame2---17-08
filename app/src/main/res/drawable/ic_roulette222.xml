@@ -1,0 +1,864 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="425dp"
+    android:height="425dp"
+    android:viewportWidth="425"
+    android:viewportHeight="425">
+  <group>
+    <clip-path
+        android:pathData="M0,0H425V425H0z"/>
+    <path
+        android:pathData="M212,212m-205,0a205,205 0,1 1,410 0a205,205 0,1 1,-410 0"
+        android:fillColor="#5B3E36"/>
+    <group>
+      <clip-path
+          android:pathData="M29,395L29,29L395,29L395,395z"/>
+      <path
+          android:pathData="M212.227,39.435v354.293h3.341V39.435h-3.341z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M86.17,87.151l254.352,252.951 1.998,-1.998L88.169,85.153 86.17,87.15z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M94.117,330.607l2.003,1.993 230.223,-230.158 -2.003,-1.993L94.117,330.607z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M29.54,211.808c0,36.072 10.726,71.335 30.822,101.328 20.095,29.993 48.658,53.37 82.076,67.174 33.417,13.805 70.189,17.417 105.666,10.379 35.476,-7.037 68.063,-24.408 93.639,-49.915 25.577,-25.507 42.995,-58.005 50.052,-93.385 7.057,-35.379 3.435,-72.051 -10.407,-105.378 -13.842,-33.326 -37.283,-61.811 -67.358,-81.852 -30.075,-20.041 -65.434,-30.738 -101.605,-30.738 -48.504,0 -95.022,19.216 -129.32,53.42 -34.297,34.204 -53.565,80.595 -53.565,128.967z"
+          android:fillColor="#fff"/>
+      <path
+          android:pathData="M97.32,211.808c-0.003,22.704 6.745,44.899 19.391,63.778 12.646,18.879 30.621,33.595 51.654,42.286 21.032,8.69 44.176,10.966 66.505,6.538 22.329,-4.427 42.84,-15.358 58.939,-31.411 16.099,-16.053 27.063,-36.507 31.506,-58.775 4.443,-22.267 2.164,-45.348 -6.547,-66.325 -8.712,-20.976 -23.465,-38.904 -42.394,-51.518 -18.929,-12.614 -41.184,-19.347 -63.95,-19.347 -30.524,0 -59.799,12.091 -81.385,33.615 -21.585,21.524 -33.714,50.717 -33.719,81.159zM312.225,211.808c0,19.685 -5.853,38.928 -16.819,55.295 -10.967,16.368 -26.553,29.124 -44.79,36.658 -18.236,7.533 -38.303,9.504 -57.662,5.663 -19.36,-3.84 -37.142,-13.319 -51.1,-27.239 -13.957,-13.919 -23.462,-31.653 -27.313,-50.96 -3.851,-19.307 -1.875,-39.319 5.679,-57.505 7.554,-18.187 20.345,-33.731 36.758,-44.668 16.412,-10.936 35.707,-16.773 55.446,-16.773 13.106,0 26.084,2.574 38.192,7.576 12.109,5.002 23.111,12.333 32.378,21.575 9.268,9.242 16.619,20.214 21.634,32.29 5.016,12.075 7.597,25.017 7.597,38.088z"
+          android:fillColor="#fff"/>
+      <path
+          android:pathData="M357.286,200.271c-6.373,-79.866 -76.461,-139.459 -156.546,-133.103 -80.085,6.356 -139.84,76.253 -133.468,156.12 6.374,79.867 76.462,139.459 156.547,133.103 80.085,-6.356 139.84,-76.253 133.467,-156.12z"
+          android:strokeWidth=".365"
+          android:fillColor="#00000000"
+          android:strokeColor="#fff"/>
+      <path
+          android:pathData="M35.98,259.959c2.157,7.875 4.846,15.597 8.049,23.11l142.896,-61.157 -150.946,38.047z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="250.877"
+              android:startX="122.234"
+              android:endY="267.39"
+              android:endX="53.53"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M274.107,383.555c7.844,-2.813 15.488,-6.151 22.881,-9.99L225.044,238.21l49.063,145.345z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-147189"
+              android:startX="22600.3"
+              android:endY="-142375"
+              android:endX="26897.4"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M326.52,354.347c6.619,-5.281 12.868,-11.009 18.701,-17.142L232.524,232.907l93.996,121.44z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-124884"
+              android:startX="36910.9"
+              android:endY="-120163"
+              android:endX="41502.9"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M300.972,371.424c7.663,-4.237 15.011,-9.017 21.987,-14.304l-94.467,-122.056 72.48,136.36z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="322.657"
+              android:startX="287.377"
+              android:endY="383.299"
+              android:endX="323.009"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M348.295,333.896c5.799,-6.416 11.135,-13.234 15.969,-20.402l-129.04,-84.235 113.071,104.637z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-106714"
+              android:startX="45101.3"
+              android:endY="-103712"
+              android:endX="48656.4"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M366.736,309.731c4.519,-7.065 8.54,-14.435 12.034,-22.056l-140.489,-61.806 128.455,83.862z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-87253.7"
+              android:startX="48329.1"
+              android:endY="-84033.8"
+              android:endX="51720.3"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M380.656,283.556c3.575,-8.332 6.521,-16.919 8.815,-25.689l-150.946,-36.831 142.131,62.52z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-65411.2"
+              android:startX="52975.9"
+              android:endY="-61554.4"
+              android:endX="58137.6"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M155.995,385.339c8.059,2.612 16.291,4.655 24.637,6.114l26.475,-152.123 -51.112,146.009z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-153537"
+              android:startX="13864.2"
+              android:endY="-148298"
+              android:endX="10608.9"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M102.199,357.364c6.654,5.013 13.641,9.57 20.914,13.639l75.407,-134.998 -96.321,121.359z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-137413"
+              android:startX="24048.5"
+              android:endY="-132497"
+              android:endX="19906"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M214.522,394.178c8.591,-0.092 17.166,-0.78 25.661,-2.06l-24.133,-152.35 -1.528,154.41z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-155557"
+              android:startX="7704.67"
+              android:endY="-148881"
+              android:endX="10100.2"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M244.64,391.372c8.539,-1.512 16.957,-3.637 25.19,-6.358l-49.34,-146.188 24.15,152.546z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-152886"
+              android:startX="15354.9"
+              android:endY="-144391"
+              android:endX="19088.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M185.136,392.183c8.235,1.217 16.542,1.883 24.865,1.995l1.529,-153.664 -26.394,151.669z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-152330"
+              android:startX="7500.37"
+              android:endY="-144904"
+              android:endX="6481.2"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M127.08,373.159c7.936,4.18 16.171,7.769 24.638,10.737l51.567,-147.21 -76.205,136.473z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-147259"
+              android:startX="19310.8"
+              android:endY="-141049"
+              android:endX="15121"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M345.888,87.125c-5.856,-6.222 -12.137,-12.03 -18.799,-17.386l-94.63,122.834L345.888,87.125z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-138814"
+              android:startX="39003.5"
+              android:endY="-141509"
+              android:endX="41381.6"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M323.528,66.95c-6.866,-5.235 -14.087,-9.987 -21.613,-14.223l-73.18,137.252 94.793,-123.03z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-155415"
+              android:startX="31418.2"
+              android:endY="-159471"
+              android:endX="34562.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M297.947,50.57c-7.859,-4.151 -16.012,-7.723 -24.393,-10.688L224.54,188.39l73.407,-137.82z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-171247"
+              android:startX="23895.5"
+              android:endY="-173481"
+              android:endX="25551.6"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M364.573,110.608c-4.737,-7.075 -9.965,-13.81 -15.644,-20.159L235.582,195.865l128.991,-85.257z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-117945"
+              android:startX="45323.3"
+              android:endY="-121099"
+              android:endX="47782.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M241.388,31.708c-8.411,-1.33 -16.904,-2.078 -25.418,-2.238l0.309,155.789 25.109,-153.55z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-176715"
+              android:startX="7624.74"
+              android:endY="-181671"
+              android:endX="10079.1"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M389.292,165.295c-2.205,-8.369 -5.009,-16.57 -8.392,-24.538l-141.481,63.12 149.873,-38.582z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-69050.8"
+              android:startX="53638.9"
+              android:endY="-71370.3"
+              android:endX="56290.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M379.03,136.622c-3.495,-7.681 -7.522,-15.111 -12.05,-22.235l-128.862,85.128 140.912,-62.893z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-94544.1"
+              android:startX="50126.6"
+              android:endY="-97008.5"
+              android:endX="53289.5"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M394.447,194.211c-0.775,-8.273 -2.122,-16.482 -4.034,-24.57l-148.88,38.339 152.914,-13.769z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-41279.9"
+              android:startX="53698.5"
+              android:endY="-44203.3"
+              android:endX="57020.8"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M394.853,224.62c0.293,-4.233 0.455,-8.499 0.455,-12.813 0,-4.313 -0.178,-8.773 -0.471,-13.104l-153.905,13.883 153.921,12.034z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-27611.6"
+              android:startX="56142.4"
+              android:endY="-27611.6"
+              android:endX="61996.3"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M390.495,253.488c1.882,-8.009 3.213,-16.137 3.984,-24.327l-152.864,-11.936 148.88,36.263z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-38159"
+              android:startX="54421.4"
+              android:endY="-37074.3"
+              android:endX="60157.8"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M269.277,38.422c-7.67,-2.5 -15.498,-4.488 -23.434,-5.951L220.93,184.756l48.347,-146.334z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-173409"
+              android:startX="15002.2"
+              android:endY="-179690"
+              android:endX="18498.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M59.072,112.409c-4.817,7.361 -9.09,15.064 -12.782,23.045l144.099,64.288 -131.317,-87.333z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-97032"
+              android:startX="31050.7"
+              android:endY="-99822.2"
+              android:endX="27879.4"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M30.012,198.476c-0.31,4.395 -0.472,8.855 -0.472,13.331 0,4.071 0.146,8.109 0.407,12.115L186.29,212.57l-156.28,-14.094z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="211.191"
+              android:startX="64.487"
+              android:endY="211.191"
+              android:endX="17.717"
+              android:type="linear">
+            <item android:offset="0.06" android:color="#FF698E38"/>
+            <item android:offset="0.11" android:color="#FF638836"/>
+            <item android:offset="0.32" android:color="#FF4E742F"/>
+            <item android:offset="0.52" android:color="#FF41682B"/>
+            <item android:offset="0.72" android:color="#FF3D642A"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M34.565,169.171c-1.954,8.167 -3.345,16.457 -4.163,24.813l156.003,14.013 -151.84,-38.826z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-42046.8"
+              android:startX="31334"
+              android:endY="-42046.8"
+              android:endX="27713.2"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M99.32,68.831c-6.553,5.164 -12.742,10.772 -18.522,16.786L195.121,191.86l-95.8,-123.029z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-138455"
+              android:startX="27488.6"
+              android:endY="-142084"
+              android:endX="23656.4"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M44.452,139.573c-3.541,8.187 -6.477,16.621 -8.782,25.235l153.206,39.166 -144.424,-64.401z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-70559.6"
+              android:startX="32490.8"
+              android:endY="-72380.4"
+              android:endX="30426.9"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M77.643,88.892c-5.713,6.237 -10.99,12.859 -15.79,19.818l130.341,86.652 -114.55,-106.47z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-118060"
+              android:startX="30683"
+              android:endY="-121385"
+              android:endX="27627.6"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M180.209,32.243c-8.174,1.455 -16.237,3.471 -24.133,6.033l50.917,147.129 -26.784,-153.162z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-171905"
+              android:startX="14032"
+              android:endY="-177058"
+              android:endX="10318.7"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M211.53,29.438c-8.961,0.04 -17.908,0.734 -26.767,2.076l27.076,154.897 -0.309,-156.973z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-180462"
+              android:startX="7738.3"
+              android:endY="-185428"
+              android:endX="5885.41"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M124.218,52.013c-7.518,4.132 -14.734,8.788 -21.596,13.931l96.353,123.759 -74.757,-137.69z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-155270"
+              android:startX="24350"
+              android:endY="-158434"
+              android:endX="21236.3"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M151.799,39.704c-8.101,2.836 -15.992,6.24 -23.613,10.185l74.806,137.689 -51.193,-147.874z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-168471"
+              android:startX="19128.2"
+              android:endY="-173178"
+              android:endX="15812.3"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M30.288,228.415c0.83,9.161 2.352,18.248 4.553,27.181l153.629,-38.728 -158.182,11.547z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-40862.6"
+              android:startX="34314.7"
+              android:endY="-36713.7"
+              android:endX="27607.9"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M79.302,336.864c6.005,6.343 12.461,12.245 19.32,17.661l97.019,-122.25 -116.34,104.589z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-123947"
+              android:startX="27110.8"
+              android:endY="-120362"
+              android:endX="23734.8"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M60.291,313.056c4.823,7.203 10.154,14.053 15.954,20.5l116.177,-104.395 -132.13,83.895z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-107475"
+              android:startX="31237.7"
+              android:endY="-104325"
+              android:endX="27697"
+              android:type="linear">
+            <item android:offset="0.07" android:color="#FF424242"/>
+            <item android:offset="0.34" android:color="#FF3E3E3E"/>
+            <item android:offset="0.64" android:color="#FF313131"/>
+            <item android:offset="0.86" android:color="#FF222222"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M45.835,287.205c3.484,7.622 7.488,14.997 11.985,22.072l131.496,-83.473 -143.481,61.401z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-86702.5"
+              android:startX="32062.2"
+              android:endY="-81466.1"
+              android:endX="26957.5"
+              android:type="linear">
+            <item android:offset="0.14" android:color="#FFDF391B"/>
+            <item android:offset="0.19" android:color="#FFD43619"/>
+            <item android:offset="0.35" android:color="#FFB72D14"/>
+            <item android:offset="0.51" android:color="#FFA22710"/>
+            <item android:offset="0.66" android:color="#FF95230E"/>
+            <item android:offset="0.81" android:color="#FF91220D"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M29.54,211.808c0,36.072 10.726,71.335 30.822,101.328 20.095,29.993 48.658,53.37 82.076,67.174 33.417,13.805 70.189,17.417 105.666,10.379 35.476,-7.037 68.063,-24.408 93.639,-49.915 25.577,-25.507 42.995,-58.005 50.052,-93.385 7.057,-35.379 3.435,-72.051 -10.407,-105.378 -13.842,-33.326 -37.283,-61.811 -67.358,-81.852 -30.075,-20.041 -65.434,-30.738 -101.605,-30.738 -48.504,0 -95.022,19.216 -129.32,53.42 -34.297,34.204 -53.565,80.595 -53.565,128.967zM388.934,211.808c0.004,34.823 -10.348,68.864 -29.746,97.82 -19.397,28.956 -46.969,51.524 -79.229,64.852 -32.259,13.328 -67.757,16.816 -102.005,10.023 -34.247,-6.793 -65.705,-23.562 -90.396,-48.185 -24.691,-24.624 -41.505,-55.996 -48.317,-90.15 -6.811,-34.155 -3.314,-69.556 10.05,-101.727 13.364,-32.172 35.995,-59.67 65.03,-79.014 29.034,-19.344 63.169,-29.668 98.087,-29.665 23.183,-0.002 46.14,4.55 67.559,13.396 21.419,8.846 40.881,21.814 57.275,38.161 16.393,16.348 29.398,35.755 38.27,57.115 8.872,21.36 13.439,44.254 13.439,67.374h-0.017z"
+          android:fillColor="#fff"/>
+      <path
+          android:pathData="M136.967,133.719l-0.097,0.081 -1.887,1.865c-19.907,20.095 -31.132,47.165 -31.272,75.413v2.806c0.513,28.195 12.05,55.076 32.151,74.91l1.902,1.833 0.13,0.097c20.146,18.976 46.819,29.528 74.53,29.484h2.992c0.06,0.008 0.12,0.008 0.179,0 27.558,-0.755 53.789,-11.967 73.342,-31.349l1.871,-1.898 0.081,-0.097c18.947,-19.651 29.741,-45.722 30.215,-72.98v-2.806c-0.134,-27.481 -10.771,-53.877 -29.743,-73.807l-0.114,-0.13c-0.602,-0.649 -1.22,-1.281 -1.838,-1.914 -19.606,-19.671 -46.046,-31.07 -73.846,-31.836 -0.06,-0.008 -0.12,-0.008 -0.179,0h-2.993c-28.135,-0.038 -55.183,10.838 -75.424,30.328z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:gradientRadius="108.449"
+              android:centerX="212.424"
+              android:centerY="211.808"
+              android:type="radial">
+            <item android:offset="0" android:color="#FF424242"/>
+            <item android:offset="0.95" android:color="#FF000000"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M184.209,107.057c18.469,4.952 35.299,14.681 48.787,28.203 0.602,0.616 1.219,1.249 1.821,1.897l0.13,0.13c18.97,19.933 29.607,46.327 29.744,73.808v2.822c-0.487,27.258 -11.285,53.327 -30.232,72.98h-0.081l-1.87,1.897c-13.411,13.277 -30.065,22.831 -48.315,27.717 9.203,2.452 18.689,3.69 28.215,3.681h2.992c0.059,0.008 0.12,0.008 0.179,0 27.56,-0.747 53.794,-11.96 73.342,-31.349l1.871,-1.897h0.081c18.942,-19.655 29.735,-45.724 30.215,-72.981v-2.822c-0.137,-27.48 -10.774,-53.875 -29.743,-73.807l-0.114,-0.13c-0.602,-0.649 -1.22,-1.281 -1.838,-1.898 -19.606,-19.671 -46.046,-31.069 -73.847,-31.835 -0.059,-0.008 -0.119,-0.008 -0.178,0h-2.993c-9.505,-0.036 -18.974,1.169 -28.166,3.584z"
+          android:strokeAlpha="0.3"
+          android:fillAlpha="0.3">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:gradientRadius="33409.2"
+              android:centerX="58235.9"
+              android:centerY="-233501"
+              android:type="radial">
+            <item android:offset="0" android:color="#FFFFFFFF"/>
+            <item android:offset="1" android:color="#00FFFFFF"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M212.424,199.612c2.422,0.006 4.787,0.728 6.796,2.075 2.01,1.346 3.575,3.257 4.496,5.49 0.921,2.233 1.158,4.688 0.681,7.055 -0.478,2.367 -1.648,4.54 -3.364,6.244 -1.715,1.704 -3.899,2.863 -6.274,3.33 -2.376,0.466 -4.837,0.22 -7.072,-0.707 -2.235,-0.928 -4.145,-2.496 -5.487,-4.505 -1.342,-2.01 -2.057,-4.372 -2.054,-6.786 0,-1.606 0.318,-3.196 0.936,-4.679 0.618,-1.482 1.523,-2.829 2.664,-3.962 1.14,-1.133 2.494,-2.031 3.984,-2.641 1.489,-0.61 3.084,-0.92 4.694,-0.914z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:gradientRadius="12.2121"
+              android:centerX="212.424"
+              android:centerY="211.808"
+              android:type="radial">
+            <item android:offset="0.06" android:color="#FFD59928"/>
+            <item android:offset="0.09" android:color="#FFC38423"/>
+            <item android:offset="0.12" android:color="#FFB97721"/>
+            <item android:offset="0.16" android:color="#FFB57320"/>
+            <item android:offset="0.23" android:color="#FFCA8E26"/>
+            <item android:offset="0.29" android:color="#FFE2AB2C"/>
+            <item android:offset="0.33" android:color="#FFE4AF35"/>
+            <item android:offset="0.39" android:color="#FFE9BA4D"/>
+            <item android:offset="0.4" android:color="#FFEABD52"/>
+            <item android:offset="0.48" android:color="#FFF2CE74"/>
+            <item android:offset="0.58" android:color="#FFFDE5A1"/>
+            <item android:offset="0.61" android:color="#FFE7C380"/>
+            <item android:offset="0.69" android:color="#FFAE6D2E"/>
+            <item android:offset="0.71" android:color="#FFA05819"/>
+            <item android:offset="0.77" android:color="#FFA6601B"/>
+            <item android:offset="0.86" android:color="#FFB87620"/>
+            <item android:offset="0.98" android:color="#FFD59B28"/>
+            <item android:offset="1" android:color="#FFDBA22A"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M103.679,211.11h217.474v2.806H103.695v-2.806h-0.016z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M212.766,103.359h2.65c0.06,-0.008 0.12,-0.008 0.179,0v216.849c-0.059,0.008 -0.119,0.008 -0.179,0h-2.65V103.359z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M136.968,133.719l75.798,75.397 1.415,1.411 0.585,0.584 0.829,0.827 2.001,1.979 73.326,72.98 -0.082,0.097 -1.87,1.898 -73.342,-72.98 -1.415,-1.395 -0.585,-0.6 -0.83,-0.811 -2,-1.995 -75.814,-75.413 1.886,-1.865 0.098,-0.114z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M289.458,135.26c0.618,0.632 1.236,1.264 1.838,1.913l0.114,0.13 -73.83,73.807 -1.399,1.411 -0.585,0.568 -0.83,0.827 -2,1.995 -74.806,74.862 -0.13,-0.098 -1.903,-1.832 74.92,-74.927 1.399,-1.395 0.585,-0.583 0.829,-0.828 2.001,-1.994 73.797,-73.856z"
+          android:fillColor="#EBB57A"/>
+      <path
+          android:pathData="M219.287,182.875c5.806,1.346 11.082,4.379 15.16,8.715 4.077,4.336 6.774,9.781 7.748,15.646 0.974,5.865 0.182,11.886 -2.276,17.302 -2.457,5.416 -6.471,9.983 -11.532,13.124s-10.942,4.714 -16.9,4.521c-5.958,-0.193 -11.724,-2.144 -16.57,-5.606 -4.846,-3.462 -8.553,-8.28 -10.653,-13.843 -2.1,-5.564 -2.498,-11.624 -1.144,-17.413 1.814,-7.758 6.643,-14.48 13.425,-18.689 6.782,-4.208 14.962,-5.56 22.742,-3.757z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:gradientRadius="29.9628"
+              android:centerX="215.29655"
+              android:centerY="223.3936"
+              android:type="radial">
+            <item android:offset="0.06" android:color="#FFD59928"/>
+            <item android:offset="0.13" android:color="#FFC38423"/>
+            <item android:offset="0.2" android:color="#FFB97721"/>
+            <item android:offset="0.26" android:color="#FFB57320"/>
+            <item android:offset="0.33" android:color="#FFCA8E26"/>
+            <item android:offset="0.39" android:color="#FFE2AB2C"/>
+            <item android:offset="0.44" android:color="#FFE4AF35"/>
+            <item android:offset="0.51" android:color="#FFE9BA4D"/>
+            <item android:offset="0.52" android:color="#FFEABD52"/>
+            <item android:offset="0.57" android:color="#FFF2CE74"/>
+            <item android:offset="0.62" android:color="#FFFDE5A1"/>
+            <item android:offset="0.67" android:color="#FFE7C380"/>
+            <item android:offset="0.76" android:color="#FFAE6D2E"/>
+            <item android:offset="0.78" android:color="#FFA05819"/>
+            <item android:offset="0.83" android:color="#FFA6601B"/>
+            <item android:offset="0.9" android:color="#FFB87620"/>
+            <item android:offset="0.98" android:color="#FFD59B28"/>
+            <item android:offset="1" android:color="#FFDBA22A"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M214.067,205.321c1.358,0.318 2.591,1.031 3.543,2.048 0.952,1.018 1.581,2.293 1.806,3.666 0.226,1.374 0.038,2.783 -0.539,4.05 -0.577,1.266 -1.518,2.334 -2.704,3.068 -1.185,0.734 -2.562,1.101 -3.957,1.054 -1.394,-0.046 -2.744,-0.504 -3.878,-1.314 -1.133,-0.811 -2.001,-1.939 -2.492,-3.241 -0.492,-1.303 -0.585,-2.721 -0.268,-4.076 0.208,-0.903 0.594,-1.755 1.134,-2.508 0.54,-0.754 1.225,-1.393 2.014,-1.881 0.789,-0.489 1.667,-0.817 2.583,-0.965 0.917,-0.149 1.854,-0.115 2.758,0.099z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-14019.9"
+              android:startX="11907.4"
+              android:endY="-14138.5"
+              android:endX="11935.5"
+              android:type="linear">
+            <item android:offset="0.06" android:color="#FFD59928"/>
+            <item android:offset="0.13" android:color="#FFC38423"/>
+            <item android:offset="0.2" android:color="#FFB97721"/>
+            <item android:offset="0.26" android:color="#FFB57320"/>
+            <item android:offset="0.33" android:color="#FFCA8E26"/>
+            <item android:offset="0.39" android:color="#FFE2AB2C"/>
+            <item android:offset="0.44" android:color="#FFE4AF35"/>
+            <item android:offset="0.51" android:color="#FFE9BA4D"/>
+            <item android:offset="0.52" android:color="#FFEABD52"/>
+            <item android:offset="0.57" android:color="#FFF2CE74"/>
+            <item android:offset="0.62" android:color="#FFFDE5A1"/>
+            <item android:offset="0.67" android:color="#FFE7C380"/>
+            <item android:offset="0.76" android:color="#FFAE6D2E"/>
+            <item android:offset="0.78" android:color="#FFA05819"/>
+            <item android:offset="0.83" android:color="#FFA6601B"/>
+            <item android:offset="0.9" android:color="#FFB87620"/>
+            <item android:offset="0.98" android:color="#FFD59B28"/>
+            <item android:offset="1" android:color="#FFDBA22A"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M189.998,206.942c-1.035,4.432 -0.728,9.07 0.881,13.328 1.61,4.258 4.449,7.944 8.16,10.592 3.711,2.648 8.126,4.138 12.686,4.282 4.56,0.145 9.061,-1.063 12.933,-3.471 3.872,-2.407 6.94,-5.906 8.817,-10.053 1.877,-4.148 2.478,-8.757 1.727,-13.246 -0.75,-4.488 -2.82,-8.653 -5.945,-11.968 -3.126,-3.315 -7.167,-5.631 -11.613,-6.654 -5.951,-1.371 -12.205,-0.33 -17.388,2.893 -5.183,3.223 -8.872,8.365 -10.258,14.297zM229.19,216.041c-0.771,3.302 -2.507,6.303 -4.988,8.621 -2.481,2.319 -5.596,3.851 -8.951,4.404 -3.355,0.553 -6.798,0.101 -9.896,-1.298 -3.097,-1.4 -5.708,-3.684 -7.504,-6.564 -1.795,-2.879 -2.694,-6.225 -2.582,-9.615 0.112,-3.389 1.229,-6.669 3.21,-9.424 1.982,-2.756 4.738,-4.864 7.921,-6.058 3.182,-1.193 6.648,-1.418 9.959,-0.647 4.434,1.034 8.275,3.78 10.681,7.636 2.405,3.855 3.179,8.505 2.15,12.928v0.017z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="-46028.9"
+              android:startX="39584"
+              android:endY="-47295"
+              android:endX="39883.4"
+              android:type="linear">
+            <item android:offset="0.06" android:color="#FFD59928"/>
+            <item android:offset="0.13" android:color="#FFC38423"/>
+            <item android:offset="0.2" android:color="#FFB97721"/>
+            <item android:offset="0.26" android:color="#FFB57320"/>
+            <item android:offset="0.33" android:color="#FFCA8E26"/>
+            <item android:offset="0.39" android:color="#FFE2AB2C"/>
+            <item android:offset="0.44" android:color="#FFE4AF35"/>
+            <item android:offset="0.51" android:color="#FFE9BA4D"/>
+            <item android:offset="0.52" android:color="#FFEABD52"/>
+            <item android:offset="0.57" android:color="#FFF2CE74"/>
+            <item android:offset="0.62" android:color="#FFFDE5A1"/>
+            <item android:offset="0.67" android:color="#FFE7C380"/>
+            <item android:offset="0.76" android:color="#FFAE6D2E"/>
+            <item android:offset="0.78" android:color="#FFA05819"/>
+            <item android:offset="0.83" android:color="#FFA6601B"/>
+            <item android:offset="0.9" android:color="#FFB87620"/>
+            <item android:offset="0.98" android:color="#FFD59B28"/>
+            <item android:offset="1" android:color="#FFDBA22A"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M63.219,208.385c0.954,-0.013 1.875,0.352 2.561,1.015 0.686,0.662 1.08,1.569 1.098,2.521 0.008,0.473 -0.077,0.942 -0.25,1.383 -0.174,0.44 -0.433,0.841 -0.762,1.182 -0.329,0.34 -0.722,0.612 -1.157,0.801 -0.435,0.189 -0.903,0.291 -1.377,0.299l-8.228,0.13c-0.716,0.013 -1.42,-0.186 -2.022,-0.573 -0.602,-0.386 -1.075,-0.943 -1.359,-1.598 -0.284,-0.656 -0.366,-1.38 -0.236,-2.082 0.13,-0.703 0.466,-1.35 0.966,-1.861 0.33,-0.339 0.724,-0.607 1.16,-0.791 0.436,-0.184 0.904,-0.279 1.377,-0.28l8.229,-0.146zM54.974,210.867c-0.172,0.003 -0.34,0.041 -0.497,0.111 -0.156,0.069 -0.297,0.169 -0.414,0.294 -0.181,0.184 -0.303,0.418 -0.35,0.672 -0.048,0.254 -0.018,0.516 0.085,0.753 0.103,0.237 0.275,0.438 0.493,0.577 0.218,0.139 0.473,0.21 0.731,0.204l8.245,-0.13c0.171,0.003 0.34,-0.03 0.498,-0.097 0.157,-0.067 0.298,-0.167 0.413,-0.292 0.126,-0.118 0.225,-0.262 0.29,-0.421 0.064,-0.16 0.093,-0.332 0.084,-0.504 0.002,-0.172 -0.032,-0.343 -0.1,-0.502 -0.066,-0.159 -0.165,-0.303 -0.29,-0.422 -0.254,-0.242 -0.592,-0.376 -0.943,-0.373l-8.245,0.13zM66.162,191.341c0.13,-0.941 -0.244,-1.481 -1.122,-1.622l-0.813,-0.113c-0.289,-0.075 -0.59,-0.083 -0.883,-0.022 -0.292,0.06 -0.566,0.188 -0.8,0.371 -0.235,0.184 -0.424,0.419 -0.552,0.688 -0.128,0.268 -0.193,0.563 -0.188,0.86l-1.757,-0.243c0.072,-0.32 0.072,-0.652 -0.002,-0.972 -0.073,-0.32 -0.217,-0.62 -0.42,-0.877 -0.434,-0.438 -1.012,-0.703 -1.627,-0.746h-0.309c-0.894,-0.13 -1.398,0.195 -1.512,0.989 -0.038,0.187 -0.026,0.381 0.037,0.561 0.063,0.179 0.174,0.339 0.32,0.461 0.282,0.206 0.613,0.335 0.96,0.373h0.358l-0.276,2.011h-0.326c-0.862,-0.077 -1.668,-0.456 -2.276,-1.07 -0.31,-0.333 -0.537,-0.734 -0.662,-1.171 -0.124,-0.437 -0.143,-0.898 -0.054,-1.343 0.05,-0.436 0.192,-0.856 0.42,-1.231 0.227,-0.375 0.533,-0.696 0.897,-0.942 0.684,-0.439 1.508,-0.607 2.31,-0.471h0.585c0.805,0.106 1.548,0.491 2.098,1.087 0.232,0.247 0.419,0.532 0.553,0.843 0.453,-0.568 1.073,-0.982 1.772,-1.183 0.438,-0.11 0.896,-0.11 1.334,0l1.073,0.145c0.471,0.048 0.926,0.197 1.334,0.438 0.407,0.241 0.757,0.567 1.024,0.957 0.522,0.727 0.738,1.63 0.602,2.514 -0.056,0.429 -0.197,0.843 -0.416,1.217 -0.218,0.374 -0.51,0.701 -0.856,0.961 -0.348,0.26 -0.743,0.448 -1.164,0.553 -0.421,0.105 -0.86,0.125 -1.288,0.058h-0.342l0.114,-1.978h0.488c0.32,0.03 0.64,-0.063 0.894,-0.26 0.14,-0.094 0.255,-0.219 0.337,-0.365 0.082,-0.147 0.128,-0.31 0.135,-0.478zM59.088,184.951c-0.543,-0.07 -1.065,-0.25 -1.535,-0.529s-0.877,-0.651 -1.197,-1.093c-0.242,-0.37 -0.406,-0.785 -0.482,-1.22 -0.075,-0.435 -0.06,-0.881 0.043,-1.31 0.082,-0.43 0.255,-0.837 0.507,-1.195 0.252,-0.358 0.578,-0.658 0.956,-0.881 0.37,-0.244 0.784,-0.413 1.22,-0.497 0.435,-0.083 0.883,-0.08 1.317,0.011 0.928,0.183 1.802,0.577 2.553,1.151 0.76,0.633 1.478,1.315 2.147,2.044 0.26,0.292 0.7,0.713 1.285,1.281l0.471,0.486c0.31,0.308 0.57,0.536 0.748,0.698l0.18,0.129 0.796,-4.005 2,0.405 -1.284,6.487 -1.887,-0.356c-0.23,-0.186 -0.447,-0.386 -0.65,-0.601l-0.602,-0.6 -0.667,-0.681c-0.358,-0.389 -0.943,-1.022 -1.756,-1.865 -0.634,-0.696 -1.337,-1.326 -2.098,-1.881 -0.489,-0.341 -1.042,-0.578 -1.626,-0.697 -0.38,-0.087 -0.778,-0.036 -1.122,0.145 -0.17,0.085 -0.318,0.208 -0.431,0.36 -0.113,0.153 -0.188,0.329 -0.22,0.516 -0.056,0.283 -0.012,0.577 0.125,0.831 0.136,0.254 0.356,0.453 0.623,0.564 0.228,0.143 0.482,0.236 0.748,0.276l0.52,0.113 -0.39,1.995 -0.292,-0.081zM73.122,169.203l-10.18,-3.13 -0.52,1.622 -1.399,-0.438c0.1,-0.509 0.06,-1.035 -0.114,-1.524 -0.152,-0.491 -0.44,-0.929 -0.83,-1.265l0.44,-1.395 13.221,4.071 -0.618,2.059zM63.951,159.554l2.78,1.005c-0.2,-0.317 -0.316,-0.68 -0.34,-1.054 -0.002,-0.238 0.042,-0.475 0.13,-0.697 0.1,-0.391 0.304,-0.747 0.59,-1.033 0.286,-0.285 0.644,-0.489 1.036,-0.589 0.805,-0.151 1.636,-0.061 2.39,0.26l2.813,1.005c0.44,0.144 0.847,0.375 1.197,0.679 0.349,0.303 0.633,0.673 0.836,1.089 0.193,0.388 0.301,0.813 0.318,1.246 0.017,0.434 -0.058,0.865 -0.22,1.268 -0.136,0.406 -0.36,0.777 -0.654,1.088 -0.295,0.311 -0.655,0.554 -1.054,0.712 -0.791,0.324 -1.68,0.324 -2.471,0l-0.31,-0.114 0.537,-1.93 0.456,0.13c0.215,0.076 0.446,0.092 0.67,0.046 0.224,-0.045 0.43,-0.151 0.598,-0.305 0.094,-0.091 0.166,-0.202 0.211,-0.325 0.072,-0.159 0.107,-0.332 0.103,-0.507 -0.004,-0.175 -0.048,-0.346 -0.128,-0.502 -0.08,-0.156 -0.193,-0.291 -0.332,-0.397 -0.14,-0.106 -0.3,-0.18 -0.472,-0.215l-3.252,-1.152c-0.171,-0.08 -0.357,-0.121 -0.545,-0.121 -0.188,0 -0.374,0.041 -0.545,0.121 -0.092,0.052 -0.172,0.122 -0.236,0.206 -0.064,0.083 -0.111,0.179 -0.138,0.281 -0.065,0.148 -0.087,0.312 -0.064,0.472 0.023,0.16 0.09,0.311 0.194,0.436 0.173,0.22 0.404,0.389 0.667,0.486l0.358,0.13 -0.716,1.946 -7.107,-2.562 2.066,-5.725 1.984,0.713 -1.35,3.909zM82.88,145.314l-9.432,-4.865 -0.83,1.622 -1.284,-0.665c0.18,-0.487 0.23,-1.013 0.146,-1.525 -0.058,-0.516 -0.261,-1.005 -0.586,-1.411l0.683,-1.281 12.278,6.357 -0.975,1.768zM74.066,132.34c0.205,-0.377 0.49,-0.704 0.836,-0.959 0.345,-0.255 0.743,-0.431 1.164,-0.517 0.835,-0.19 1.711,-0.045 2.44,0.406l6.504,3.779c0.388,0.199 0.732,0.473 1.011,0.808 0.28,0.334 0.489,0.721 0.615,1.138 0.13,0.399 0.172,0.823 0.122,1.24 -0.05,0.417 -0.192,0.819 -0.414,1.176 -0.204,0.375 -0.487,0.701 -0.83,0.956 -0.342,0.255 -0.736,0.432 -1.154,0.52 -0.835,0.19 -1.712,0.045 -2.44,-0.406l-0.26,-0.145 1.073,-1.882 0.31,0.179c0.258,0.156 0.56,0.224 0.861,0.194 0.144,-0.023 0.28,-0.079 0.399,-0.163 0.118,-0.085 0.216,-0.195 0.284,-0.323 0.08,-0.124 0.13,-0.265 0.144,-0.412 0.014,-0.147 -0.008,-0.295 -0.063,-0.432 -0.11,-0.279 -0.318,-0.509 -0.585,-0.648l-2.407,-1.395c0.128,0.55 0.047,1.128 -0.227,1.622 -0.175,0.354 -0.437,0.658 -0.76,0.885 -0.325,0.227 -0.7,0.368 -1.094,0.412 -0.824,0.031 -1.637,-0.196 -2.326,-0.649l-2.049,-1.184c-0.519,-0.326 -0.94,-0.785 -1.22,-1.329 -0.271,-0.542 -0.378,-1.151 -0.308,-1.752 0.052,-0.393 0.18,-0.773 0.374,-1.119zM77.496,133.054c-0.264,-0.157 -0.571,-0.225 -0.877,-0.195 -0.144,0.023 -0.28,0.079 -0.399,0.163 -0.118,0.085 -0.216,0.195 -0.284,0.324 -0.08,0.123 -0.13,0.265 -0.144,0.411 -0.014,0.147 0.008,0.295 0.062,0.432 0.123,0.277 0.335,0.505 0.602,0.649l2.212,1.281c0.161,0.099 0.342,0.162 0.53,0.185 0.188,0.022 0.38,0.003 0.56,-0.055 0.197,-0.073 0.36,-0.218 0.455,-0.406 0.135,-0.201 0.186,-0.447 0.144,-0.686 -0.043,-0.239 -0.176,-0.452 -0.372,-0.595 -0.096,-0.089 -0.2,-0.171 -0.309,-0.243l-2.18,-1.265zM92.426,120.906l-4.521,-8.32 1.3,-1.622 6.83,5.482 0.83,-1.038 1.627,1.314 -0.797,1.022 2.325,1.848 -1.3,1.622 -2.326,-1.849 -2.31,2.855 -1.658,-1.314zM94.735,118.052l-3.383,-2.709 2.293,4.039 1.09,-1.33zM103.533,101.17c-0.403,-0.37 -0.725,-0.819 -0.946,-1.318 -0.221,-0.5 -0.336,-1.04 -0.339,-1.585 0.023,-0.44 0.135,-0.873 0.331,-1.269 0.196,-0.396 0.471,-0.748 0.808,-1.034 0.314,-0.322 0.695,-0.572 1.117,-0.731 0.421,-0.16 0.872,-0.226 1.322,-0.193 0.892,0.046 1.732,0.435 2.342,1.086 0.641,0.692 1.119,1.517 1.398,2.417 0.251,0.958 0.43,1.934 0.537,2.919l0.293,1.784 0.113,0.665 0.179,1.022 0.082,0.194 2.992,-2.789 1.382,1.492 -4.878,4.508 -1.301,-1.394c-0.098,-0.278 -0.158,-0.567 -0.179,-0.86l-0.147,-0.843 -0.13,-0.925 -0.325,-2.546c-0.114,-0.937 -0.321,-1.86 -0.618,-2.757 -0.19,-0.542 -0.483,-1.043 -0.862,-1.476 -0.256,-0.29 -0.608,-0.48 -0.992,-0.535 -0.188,-0.027 -0.38,-0.01 -0.56,0.05 -0.181,0.058 -0.345,0.158 -0.481,0.29 -0.219,0.204 -0.36,0.477 -0.399,0.774 -0.038,0.296 0.028,0.596 0.188,0.849 0.116,0.244 0.269,0.468 0.455,0.664l0.358,0.389 -1.496,1.395 -0.244,-0.243zM117.6,101.818l-6.912,-8.109 -1.35,1.152 -0.943,-1.12c0.354,-0.377 0.601,-0.841 0.716,-1.345 0.138,-0.5 0.138,-1.026 0,-1.525l1.105,-0.94 8.977,10.509 -1.593,1.378zM124.917,83.784c-0.328,-0.439 -0.564,-0.94 -0.693,-1.472 -0.128,-0.533 -0.147,-1.086 -0.055,-1.626 0.102,-0.429 0.289,-0.832 0.552,-1.187 0.263,-0.354 0.595,-0.65 0.977,-0.872 0.366,-0.246 0.78,-0.41 1.216,-0.48 0.435,-0.07 0.88,-0.044 1.305,0.074 0.429,0.097 0.836,0.277 1.196,0.53s0.666,0.575 0.901,0.946c0.515,0.793 0.843,1.69 0.96,2.627 0.071,0.988 0.071,1.98 0,2.968v3.52c-0.019,0.069 -0.019,0.142 0,0.21l3.431,-2.221 1.106,1.718 -5.562,3.585 -1.04,-1.622c-0.022,-0.292 -0.022,-0.584 0,-0.876L129.211,87.806l0.13,-2.563c0.054,-0.937 0.01,-1.877 -0.13,-2.805 -0.07,-0.576 -0.264,-1.129 -0.57,-1.622 -0.197,-0.335 -0.509,-0.588 -0.878,-0.713 -0.181,-0.06 -0.374,-0.075 -0.564,-0.047 -0.189,0.028 -0.369,0.1 -0.525,0.209 -0.24,0.155 -0.42,0.388 -0.509,0.66 -0.088,0.271 -0.081,0.565 0.021,0.832 0.062,0.266 0.173,0.519 0.325,0.746l0.293,0.438 -1.724,1.119 -0.163,-0.276zM144.041,72.755c-0.276,-0.489 -0.446,-1.03 -0.496,-1.59 -0.05,-0.559 0.019,-1.123 0.204,-1.653 0.16,-0.412 0.402,-0.787 0.713,-1.102 0.31,-0.315 0.682,-0.564 1.092,-0.73 0.398,-0.18 0.831,-0.274 1.268,-0.274 0.438,0 0.87,0.093 1.269,0.273 0.837,0.32 1.514,0.955 1.886,1.768 0.395,0.853 0.59,1.785 0.569,2.725 -0.072,0.986 -0.207,1.966 -0.406,2.935 -0.087,0.39 -0.184,0.99 -0.293,1.8l-0.114,0.665 -0.13,1.022v0.227l3.724,-1.622 0.846,1.85 -6.017,2.756 -0.813,-1.735c0.008,-0.294 0.04,-0.587 0.097,-0.876l0.147,-0.843 0.162,-0.925 0.488,-2.514c0.196,-0.922 0.294,-1.862 0.293,-2.805 -0.005,-0.56 -0.127,-1.112 -0.358,-1.622 -0.148,-0.358 -0.419,-0.651 -0.764,-0.827 -0.171,-0.08 -0.357,-0.12 -0.545,-0.12 -0.188,0 -0.374,0.04 -0.545,0.12 -0.261,0.124 -0.474,0.332 -0.604,0.59 -0.129,0.26 -0.169,0.554 -0.111,0.837 0.037,0.264 0.114,0.521 0.227,0.762l0.228,0.487 -1.87,0.843 -0.147,-0.422zM153.311,66.707l1.09,2.757c0.093,-0.368 0.29,-0.7 0.569,-0.957 0.174,-0.163 0.378,-0.29 0.601,-0.373 0.354,-0.164 0.744,-0.237 1.133,-0.212 0.389,0.026 0.766,0.149 1.095,0.358 0.645,0.504 1.125,1.186 1.383,1.962l1.105,2.773c0.181,0.426 0.274,0.884 0.274,1.346 0,0.463 -0.093,0.92 -0.274,1.346 -0.167,0.399 -0.416,0.759 -0.729,1.057 -0.313,0.299 -0.685,0.53 -1.092,0.679 -0.397,0.165 -0.825,0.241 -1.255,0.225 -0.429,-0.017 -0.85,-0.127 -1.233,-0.323 -0.758,-0.372 -1.341,-1.023 -1.626,-1.816l-0.13,-0.308 1.805,-0.876 0.211,0.422c0.088,0.21 0.231,0.393 0.414,0.53 0.183,0.137 0.4,0.222 0.627,0.248 0.123,0.025 0.25,0.025 0.374,0 0.162,-0.048 0.311,-0.131 0.437,-0.243 0.126,-0.112 0.226,-0.25 0.292,-0.405 0.067,-0.155 0.099,-0.322 0.094,-0.49 -0.006,-0.168 -0.048,-0.333 -0.124,-0.484l-1.236,-3.146c-0.064,-0.177 -0.167,-0.338 -0.302,-0.47 -0.135,-0.132 -0.299,-0.232 -0.478,-0.292 -0.199,-0.08 -0.42,-0.08 -0.618,0 -0.156,0.047 -0.296,0.138 -0.403,0.261 -0.106,0.124 -0.175,0.275 -0.199,0.436 -0.069,0.266 -0.069,0.545 0,0.811l0.13,0.34 -1.935,0.78 -2.765,-7.023 5.66,-2.222 0.78,1.93 -3.675,1.379zM173.769,72.22l-2.765,-10.249 -1.723,0.454 -0.374,-1.395c0.48,-0.204 0.904,-0.522 1.236,-0.924 0.34,-0.389 0.56,-0.868 0.634,-1.379l1.415,-0.373 3.561,13.331 -1.984,0.536zM180.144,56.505l0.455,2.044 -0.309,12.066 -2,0.438 0.309,-12.066 -4.115,0.924 -0.455,-2.044 6.115,-1.362zM197.122,65.944c0.959,0 1.398,-0.568 1.301,-1.46l-0.081,-0.81c0.008,-0.299 -0.055,-0.595 -0.182,-0.865s-0.316,-0.508 -0.552,-0.692c-0.235,-0.184 -0.511,-0.311 -0.804,-0.37 -0.293,-0.06 -0.597,-0.05 -0.886,0.029l-0.162,-1.768c0.316,-0.013 0.626,-0.095 0.907,-0.241s0.526,-0.351 0.719,-0.602c0.332,-0.514 0.46,-1.133 0.358,-1.735v-0.309c-0.098,-0.908 -0.537,-1.313 -1.317,-1.232 -0.195,0.005 -0.385,0.064 -0.549,0.17 -0.163,0.105 -0.294,0.254 -0.378,0.43 -0.133,0.318 -0.178,0.665 -0.13,1.005v0.357l-2.033,0.195v-0.308c-0.123,-0.858 0.061,-1.73 0.52,-2.465 0.252,-0.377 0.59,-0.69 0.985,-0.912 0.396,-0.222 0.838,-0.35 1.292,-0.37 0.438,-0.06 0.883,-0.023 1.305,0.109 0.422,0.131 0.809,0.355 1.134,0.654 0.591,0.557 0.951,1.315 1.008,2.124v0.584c0.099,0.804 -0.098,1.616 -0.552,2.287 -0.19,0.286 -0.426,0.538 -0.7,0.746 0.68,0.293 1.249,0.792 1.627,1.427 0.227,0.391 0.361,0.83 0.39,1.281l0.114,1.087c0.054,0.453 0.015,0.913 -0.115,1.351 -0.129,0.438 -0.347,0.845 -0.638,1.197 -0.292,0.352 -0.653,0.64 -1.06,0.85 -0.407,0.208 -0.853,0.332 -1.31,0.364 -0.43,0.054 -0.866,0.016 -1.281,-0.11 -0.415,-0.125 -0.798,-0.336 -1.126,-0.62 -0.336,-0.272 -0.614,-0.61 -0.818,-0.99 -0.204,-0.382 -0.329,-0.8 -0.369,-1.231v-0.341l1.952,-0.34 0.097,0.47c0.048,0.317 0.21,0.605 0.456,0.81 0.121,0.1 0.262,0.173 0.413,0.215 0.151,0.042 0.31,0.052 0.465,0.03zM201.854,62.425l3.252,-8.888 2.082,-0.08 0.358,8.724h1.349l0.082,2.076h-1.334l0.114,2.968 -2.081,0.081 -0.114,-2.968 -3.692,0.146 -0.016,-2.06zM205.529,62.263l-0.179,-4.298 -1.528,4.378 1.707,-0.08zM226.67,57.543v-0.34c0.037,-0.306 -0.032,-0.615 -0.195,-0.876 -0.082,-0.12 -0.191,-0.22 -0.318,-0.29 -0.127,-0.07 -0.269,-0.11 -0.414,-0.115 -0.146,-0.022 -0.294,-0.008 -0.433,0.04 -0.138,0.048 -0.263,0.129 -0.364,0.235 -0.203,0.23 -0.323,0.521 -0.342,0.827l-0.244,2.741c0.457,-0.37 1.04,-0.551 1.627,-0.503 0.398,0.014 0.787,0.126 1.13,0.327 0.344,0.201 0.632,0.485 0.837,0.825 0.383,0.72 0.52,1.546 0.391,2.351l-0.212,2.368c-0.1,0.825 -0.513,1.58 -1.154,2.109 -0.321,0.262 -0.69,0.459 -1.088,0.577 -0.397,0.118 -0.815,0.155 -1.227,0.11 -0.412,-0.045 -0.811,-0.173 -1.173,-0.374 -0.363,-0.202 -0.681,-0.474 -0.936,-0.8 -0.525,-0.671 -0.764,-1.522 -0.666,-2.368l0.666,-7.509c0.059,-0.638 0.29,-1.248 0.667,-1.767 0.367,-0.515 0.892,-0.897 1.496,-1.087 0.407,-0.14 0.84,-0.19 1.269,-0.146 0.428,0.026 0.845,0.146 1.221,0.35 0.377,0.205 0.704,0.49 0.958,0.834 0.529,0.675 0.769,1.533 0.667,2.384v0.292l-2.163,-0.195zM223.954,64.533c-0.029,0.298 0.033,0.598 0.179,0.86 0.084,0.122 0.195,0.224 0.325,0.297 0.129,0.073 0.274,0.116 0.423,0.124 0.149,0.021 0.301,0.006 0.443,-0.045 0.141,-0.051 0.268,-0.136 0.37,-0.246 0.206,-0.222 0.327,-0.51 0.341,-0.811l0.212,-2.547c0.022,-0.184 0.003,-0.372 -0.056,-0.549 -0.059,-0.176 -0.157,-0.338 -0.286,-0.472 -0.158,-0.14 -0.358,-0.226 -0.569,-0.244 -0.162,-0.015 -0.325,0.01 -0.475,0.071 -0.151,0.063 -0.283,0.16 -0.387,0.286 -0.161,0.225 -0.262,0.488 -0.292,0.763l-0.228,2.513zM243.907,60.625c0.089,-0.54 0.288,-1.056 0.585,-1.516 0.296,-0.46 0.684,-0.855 1.139,-1.16 0.38,-0.227 0.803,-0.375 1.242,-0.433 0.439,-0.059 0.885,-0.027 1.311,0.092 0.428,0.097 0.83,0.283 1.18,0.546 0.351,0.262 0.641,0.596 0.853,0.979 0.23,0.378 0.383,0.797 0.45,1.234 0.067,0.437 0.047,0.883 -0.06,1.312 -0.21,0.917 -0.633,1.773 -1.235,2.497 -0.654,0.748 -1.366,1.442 -2.131,2.076l-1.333,1.233 -0.488,0.454 -0.732,0.73c-0.053,0.045 -0.097,0.1 -0.13,0.162l3.984,0.94 -0.471,1.98 -6.505,-1.51 0.439,-1.864c0.187,-0.229 0.393,-0.44 0.618,-0.632l0.618,-0.568 0.715,-0.649 1.919,-1.622c0.719,-0.613 1.373,-1.297 1.952,-2.043 0.359,-0.449 0.62,-0.968 0.764,-1.525 0.102,-0.372 0.068,-0.77 -0.098,-1.119 -0.083,-0.17 -0.204,-0.32 -0.353,-0.438s-0.323,-0.201 -0.509,-0.243c-0.282,-0.061 -0.577,-0.026 -0.836,0.1 -0.26,0.127 -0.469,0.338 -0.595,0.598 -0.143,0.23 -0.247,0.482 -0.309,0.745l-0.113,0.503 -2.001,-0.454 0.13,-0.405zM259.341,60.624l-0.651,1.979 -6.098,10.412 -1.968,-0.568 6.099,-10.412 -4.05,-1.184 0.586,-2.01 6.082,1.783zM266.252,77.8l4.017,-9.845 -1.626,-0.665 0.553,-1.346c0.506,0.13 1.038,0.13 1.544,0 0.508,-0.108 0.976,-0.355 1.35,-0.714l1.334,0.552 -5.22,12.78 -1.952,-0.763zM273.326,78.708c0.154,0.111 0.332,0.185 0.52,0.215 0.187,0.03 0.38,0.015 0.561,-0.044 0.18,-0.058 0.345,-0.159 0.479,-0.293 0.135,-0.134 0.235,-0.298 0.294,-0.478l0.341,-0.73c0.158,-0.254 0.254,-0.541 0.281,-0.839 0.027,-0.297 -0.016,-0.597 -0.125,-0.875 -0.108,-0.279 -0.28,-0.528 -0.502,-0.728 -0.222,-0.201 -0.487,-0.348 -0.776,-0.429l0.748,-1.622c0.287,0.165 0.607,0.263 0.937,0.286 0.329,0.022 0.66,-0.031 0.966,-0.156 0.546,-0.275 0.969,-0.743 1.187,-1.314l0.13,-0.291c0.391,-0.811 0.212,-1.379 -0.504,-1.72 -0.165,-0.097 -0.353,-0.148 -0.545,-0.148 -0.191,0 -0.379,0.051 -0.544,0.148 -0.284,0.206 -0.504,0.487 -0.635,0.811l-0.146,0.325 -1.854,-0.86 0.13,-0.292c0.311,-0.79 0.885,-1.449 1.626,-1.865 0.411,-0.17 0.853,-0.254 1.297,-0.248 0.445,0.007 0.884,0.104 1.289,0.287 0.406,0.182 0.769,0.445 1.068,0.774 0.3,0.328 0.528,0.714 0.672,1.133 0.238,0.776 0.162,1.614 -0.211,2.336l-0.244,0.535c-0.339,0.711 -0.913,1.284 -1.626,1.622 -0.31,0.14 -0.639,0.233 -0.976,0.275 0.415,0.595 0.636,1.303 0.634,2.028 -0.007,0.45 -0.112,0.892 -0.309,1.297l-0.471,0.99c-0.182,0.43 -0.454,0.818 -0.8,1.134 -0.345,0.316 -0.755,0.554 -1.201,0.698 -0.421,0.15 -0.869,0.213 -1.315,0.188 -0.447,-0.025 -0.884,-0.138 -1.287,-0.334 -0.395,-0.181 -0.75,-0.44 -1.043,-0.76 -0.293,-0.32 -0.519,-0.696 -0.664,-1.105 -0.155,-0.402 -0.225,-0.83 -0.206,-1.26 0.02,-0.43 0.129,-0.852 0.32,-1.238l0.146,-0.324 1.87,0.697 -0.179,0.454c-0.105,0.3 -0.105,0.626 0,0.925 0.032,0.179 0.11,0.347 0.227,0.486 0.117,0.14 0.269,0.246 0.44,0.309zM290.466,88.033c0.14,0.128 0.307,0.221 0.489,0.273 0.182,0.053 0.374,0.062 0.56,0.027 0.186,-0.035 0.362,-0.112 0.513,-0.226 0.151,-0.114 0.273,-0.262 0.357,-0.431l0.439,-0.681c0.191,-0.23 0.326,-0.501 0.393,-0.792 0.067,-0.291 0.065,-0.594 -0.006,-0.884 -0.072,-0.29 -0.21,-0.559 -0.404,-0.786 -0.194,-0.228 -0.439,-0.406 -0.715,-0.522l0.96,-1.508c0.259,0.2 0.561,0.34 0.882,0.407 0.321,0.068 0.653,0.061 0.972,-0.018 0.579,-0.2 1.065,-0.603 1.366,-1.135l0.179,-0.276c0.471,-0.762 0.39,-1.346 -0.293,-1.784 -0.161,-0.1 -0.347,-0.152 -0.537,-0.152 -0.189,0 -0.375,0.053 -0.536,0.152 -0.314,0.16 -0.573,0.408 -0.748,0.713l-0.196,0.292 -1.707,-1.086 0.163,-0.276c0.437,-0.747 1.121,-1.32 1.935,-1.622 0.432,-0.14 0.892,-0.176 1.341,-0.105 0.449,0.07 0.876,0.245 1.244,0.51 0.382,0.22 0.71,0.522 0.96,0.884s0.417,0.775 0.488,1.209c0.118,0.807 -0.074,1.63 -0.537,2.303l-0.309,0.486c-0.421,0.694 -1.079,1.213 -1.854,1.46 -0.325,0.105 -0.666,0.154 -1.008,0.146 0.342,0.646 0.467,1.385 0.358,2.108 -0.054,0.443 -0.216,0.867 -0.472,1.233l-0.585,0.924c-0.231,0.418 -0.553,0.781 -0.94,1.061 -0.388,0.28 -0.834,0.472 -1.304,0.56 -0.885,0.169 -1.8,-0.011 -2.554,-0.502 -0.368,-0.232 -0.686,-0.535 -0.934,-0.891 -0.249,-0.357 -0.423,-0.76 -0.513,-1.185 -0.094,-0.42 -0.104,-0.853 -0.029,-1.276 0.076,-0.423 0.235,-0.828 0.468,-1.189l0.195,-0.292 1.757,0.94 -0.228,0.439c-0.158,0.275 -0.211,0.597 -0.146,0.908 0.102,0.252 0.293,0.46 0.536,0.584zM303.102,86.46l0.195,-0.276c0.185,-0.243 0.287,-0.539 0.293,-0.843 -0.009,-0.147 -0.051,-0.289 -0.125,-0.415 -0.073,-0.127 -0.175,-0.235 -0.298,-0.315 -0.113,-0.095 -0.249,-0.16 -0.394,-0.188 -0.145,-0.028 -0.294,-0.02 -0.435,0.025 -0.293,0.091 -0.546,0.28 -0.716,0.536l-1.626,2.222c0.574,-0.072 1.154,0.073 1.626,0.405 0.336,0.211 0.613,0.503 0.806,0.849 0.193,0.345 0.296,0.734 0.3,1.13 -0.052,0.816 -0.353,1.596 -0.862,2.238l-1.382,1.913c-0.502,0.665 -1.242,1.113 -2.065,1.249 -0.4,0.068 -0.809,0.054 -1.204,-0.04 -0.394,-0.096 -0.765,-0.27 -1.089,-0.511 -0.355,-0.24 -0.652,-0.555 -0.871,-0.922 -0.219,-0.367 -0.355,-0.778 -0.398,-1.203 -0.107,-0.85 0.127,-1.706 0.651,-2.384l4.39,-6.114c0.379,-0.52 0.89,-0.929 1.48,-1.184 0.578,-0.253 1.222,-0.316 1.838,-0.178 0.422,0.09 0.821,0.267 1.171,0.519 0.356,0.238 0.654,0.552 0.874,0.92 0.219,0.367 0.354,0.778 0.394,1.204 0.107,0.85 -0.126,1.706 -0.65,2.384l-0.163,0.244 -1.74,-1.266zM297.215,91.098c-0.188,0.234 -0.292,0.526 -0.292,0.827 0.004,0.149 0.045,0.295 0.119,0.425s0.178,0.24 0.303,0.321c0.118,0.092 0.256,0.155 0.403,0.183 0.148,0.028 0.299,0.021 0.443,-0.02 0.288,-0.093 0.536,-0.282 0.699,-0.536l1.496,-2.06c0.112,-0.152 0.19,-0.326 0.23,-0.51 0.039,-0.185 0.038,-0.376 -0.002,-0.56 -0.067,-0.2 -0.198,-0.37 -0.374,-0.487 -0.128,-0.103 -0.282,-0.17 -0.445,-0.192 -0.164,-0.023 -0.33,-0.002 -0.482,0.063 -0.255,0.103 -0.476,0.277 -0.634,0.502l-1.464,2.044zM308.729,104.348l7.123,-7.882 -1.318,-1.183 0.976,-1.087c0.43,0.296 0.928,0.48 1.447,0.535 0.508,0.072 1.025,0.004 1.497,-0.195l1.089,0.957 -9.269,10.25 -1.545,-1.395zM312.697,108.013l7.415,-7.606 -1.268,-1.233 1.008,-1.038c0.423,0.307 0.914,0.507 1.431,0.584 0.508,0.085 1.03,0.035 1.513,-0.146l1.04,1.006 -9.643,9.893 -1.496,-1.46zM325.366,118.847c0.091,0.168 0.221,0.312 0.38,0.42 0.158,0.108 0.339,0.178 0.529,0.203 0.19,0.026 0.384,0.006 0.565,-0.058 0.181,-0.063 0.344,-0.168 0.477,-0.306l0.618,-0.502c0.254,-0.159 0.467,-0.375 0.623,-0.63 0.156,-0.256 0.249,-0.544 0.273,-0.842 0.023,-0.298 -0.023,-0.597 -0.136,-0.874 -0.114,-0.277 -0.29,-0.523 -0.516,-0.72l1.382,-1.135c0.183,0.269 0.424,0.493 0.705,0.656 0.282,0.163 0.597,0.26 0.921,0.285 0.604,-0.011 1.182,-0.242 1.627,-0.649l0.244,-0.211c0.699,-0.568 0.796,-1.168 0.292,-1.768 -0.111,-0.158 -0.264,-0.282 -0.442,-0.36 -0.178,-0.077 -0.374,-0.104 -0.566,-0.078 -0.339,0.067 -0.654,0.224 -0.911,0.455l-0.276,0.227 -1.301,-1.622 0.244,-0.195c0.646,-0.579 1.474,-0.917 2.342,-0.957 0.455,0.002 0.904,0.11 1.311,0.316 0.407,0.205 0.759,0.503 1.03,0.868 0.292,0.328 0.508,0.716 0.632,1.137 0.123,0.42 0.152,0.863 0.084,1.296 -0.122,0.81 -0.56,1.539 -1.22,2.027l-0.455,0.373c-0.619,0.521 -1.402,0.808 -2.212,0.811 -0.342,-0.005 -0.682,-0.06 -1.008,-0.162 0.121,0.712 0.013,1.445 -0.309,2.092 -0.197,0.407 -0.487,0.762 -0.846,1.038l-0.845,0.697c-0.357,0.307 -0.775,0.535 -1.226,0.669 -0.451,0.135 -0.926,0.172 -1.393,0.11 -0.441,-0.052 -0.869,-0.19 -1.257,-0.407 -0.388,-0.217 -0.729,-0.509 -1.003,-0.858 -0.28,-0.331 -0.49,-0.715 -0.619,-1.128 -0.128,-0.413 -0.173,-0.848 -0.13,-1.279 0.042,-0.431 0.171,-0.849 0.377,-1.229 0.207,-0.381 0.489,-0.716 0.827,-0.986l0.277,-0.227 1.382,1.427 -0.358,0.357c-0.236,0.209 -0.386,0.498 -0.422,0.811 -0.017,0.164 0.001,0.331 0.055,0.487 0.053,0.157 0.14,0.3 0.254,0.421zM333.497,127.475c-0.345,0.266 -0.741,0.457 -1.164,0.56 -0.423,0.104 -0.863,0.117 -1.292,0.04 -0.661,-0.077 -1.283,-0.354 -1.782,-0.794 -0.498,-0.44 -0.849,-1.023 -1.005,-1.668 -0.156,-0.646 -0.11,-1.323 0.133,-1.942 0.242,-0.618 0.669,-1.147 1.223,-1.516l6.098,-4.427c0.347,-0.267 0.747,-0.458 1.172,-0.561 0.426,-0.104 0.869,-0.117 1.3,-0.039 0.427,0.065 0.837,0.215 1.206,0.441s0.688,0.522 0.941,0.872c0.267,0.347 0.459,0.745 0.562,1.169 0.104,0.425 0.117,0.866 0.039,1.296 -0.065,0.427 -0.216,0.835 -0.442,1.203 -0.226,0.368 -0.524,0.687 -0.875,0.938l-6.114,4.428zM338.375,121.28c0.132,-0.088 0.244,-0.203 0.328,-0.338 0.084,-0.134 0.139,-0.284 0.16,-0.441 0.028,-0.155 0.024,-0.314 -0.013,-0.468 -0.036,-0.153 -0.104,-0.298 -0.198,-0.424 -0.091,-0.131 -0.209,-0.241 -0.347,-0.322 -0.138,-0.081 -0.291,-0.132 -0.45,-0.148 -0.153,-0.028 -0.31,-0.023 -0.462,0.013 -0.151,0.036 -0.293,0.104 -0.416,0.198l-6.115,4.443c-0.256,0.188 -0.43,0.467 -0.488,0.779 -0.027,0.152 -0.023,0.309 0.014,0.46 0.036,0.15 0.103,0.292 0.198,0.415 0.091,0.132 0.209,0.244 0.346,0.328 0.138,0.083 0.291,0.138 0.45,0.159 0.156,0.026 0.315,0.021 0.469,-0.016 0.154,-0.036 0.298,-0.102 0.426,-0.195l6.098,-4.443zM343.595,144.357c-0.38,0.215 -0.8,0.351 -1.234,0.4 -0.435,0.049 -0.874,0.01 -1.293,-0.114 -0.419,-0.124 -0.809,-0.331 -1.146,-0.608 -0.337,-0.278 -0.614,-0.621 -0.815,-1.008v-0.145c-0.213,-0.38 -0.347,-0.797 -0.394,-1.229 -0.048,-0.432 -0.008,-0.869 0.117,-1.285 0.127,-0.417 0.336,-0.804 0.615,-1.138 0.279,-0.335 0.623,-0.609 1.012,-0.808l1.105,-0.6c0.719,-0.396 1.562,-0.506 2.358,-0.309 0.353,0.083 0.688,0.226 0.992,0.422 -0.004,-0.665 0.22,-1.312 0.635,-1.833 0.287,-0.338 0.642,-0.614 1.04,-0.81l0.651,-0.357c0.706,-0.414 1.542,-0.547 2.342,-0.373 0.432,0.103 0.835,0.303 1.178,0.584 0.344,0.281 0.619,0.635 0.806,1.038l0.081,0.145c0.227,0.377 0.367,0.799 0.412,1.237 0.045,0.437 -0.007,0.879 -0.152,1.294 -0.295,0.774 -0.877,1.407 -1.626,1.767l-0.667,0.357c-0.677,0.393 -1.48,0.515 -2.244,0.341 -0.32,-0.073 -0.623,-0.205 -0.894,-0.389 -0.012,0.727 -0.257,1.432 -0.7,2.011 -0.269,0.362 -0.62,0.656 -1.024,0.859l-1.155,0.551zM343.465,142.054c0.716,-0.389 1.106,-0.811 1.187,-1.281 0.019,-0.256 -0.043,-0.511 -0.179,-0.73 -0.097,-0.221 -0.264,-0.404 -0.475,-0.521 -0.212,-0.117 -0.456,-0.162 -0.696,-0.127 -0.384,0.059 -0.754,0.191 -1.089,0.389l-0.569,0.308c-0.364,0.189 -0.643,0.507 -0.781,0.892 -0.067,0.204 -0.081,0.423 -0.039,0.634 0.042,0.211 0.138,0.408 0.279,0.571 0.141,0.163 0.321,0.287 0.524,0.36 0.203,0.073 0.422,0.093 0.635,0.057 0.217,-0.023 0.427,-0.089 0.618,-0.195l0.585,-0.357zM348.832,139.216c0.829,-0.454 1.203,-1.005 1.138,-1.621 -0.008,-0.167 -0.058,-0.329 -0.146,-0.471 -0.068,-0.142 -0.163,-0.27 -0.28,-0.376 -0.118,-0.105 -0.255,-0.187 -0.403,-0.24 -0.237,-0.082 -0.495,-0.082 -0.732,0 -0.315,0.065 -0.613,0.192 -0.878,0.373 -0.404,0.196 -0.752,0.492 -1.009,0.859 -0.081,0.194 -0.117,0.404 -0.105,0.614 0.012,0.21 0.072,0.414 0.176,0.597 0.104,0.184 0.248,0.341 0.422,0.46 0.173,0.119 0.372,0.196 0.581,0.227 0.444,-0.02 0.873,-0.166 1.236,-0.422zM355.889,155.045c0.512,-0.226 1.066,-0.342 1.626,-0.342 0.56,0 1.114,0.116 1.626,0.342 0.387,0.198 0.73,0.47 1.009,0.801 0.28,0.332 0.489,0.716 0.618,1.129 0.155,0.409 0.221,0.847 0.193,1.283 -0.028,0.436 -0.149,0.862 -0.356,1.247 -0.182,0.404 -0.444,0.766 -0.771,1.064 -0.328,0.298 -0.713,0.527 -1.132,0.672 -0.889,0.322 -1.838,0.444 -2.78,0.357 -0.979,-0.143 -1.946,-0.354 -2.895,-0.633 -0.39,-0.097 -0.976,-0.243 -1.773,-0.422l-0.666,-0.162c-0.423,-0.097 -0.765,-0.162 -1.009,-0.211 -0.07,-0.005 -0.141,-0.005 -0.211,0l1.415,3.828 -1.903,0.713 -2.309,-6.211 1.789,-0.649c0.298,0.021 0.592,0.075 0.878,0.162 0.238,0 0.515,0.065 0.829,0.195l0.927,0.243c0.504,0.146 1.334,0.357 2.472,0.665 0.907,0.263 1.839,0.431 2.781,0.503 0.55,0.036 1.103,-0.036 1.626,-0.211 0.369,-0.125 0.681,-0.378 0.878,-0.714 0.1,-0.161 0.161,-0.343 0.178,-0.531 0.017,-0.189 -0.011,-0.379 -0.08,-0.555 -0.106,-0.266 -0.299,-0.488 -0.546,-0.632 -0.248,-0.144 -0.536,-0.201 -0.82,-0.163 -0.272,0.006 -0.541,0.055 -0.797,0.146l-0.488,0.195 -0.716,-1.93 0.407,-0.179zM352.165,168.523c0.028,0.178 0.095,0.347 0.196,0.497 0.101,0.15 0.234,0.275 0.389,0.368 0.155,0.093 0.329,0.151 0.509,0.169 0.18,0.019 0.362,-0.002 0.532,-0.061l0.781,-0.227c0.293,-0.057 0.57,-0.18 0.807,-0.36 0.238,-0.181 0.43,-0.414 0.562,-0.681 0.133,-0.267 0.201,-0.561 0.201,-0.859 -0.001,-0.297 -0.071,-0.591 -0.204,-0.858l1.626,-0.519c0.073,0.32 0.216,0.619 0.418,0.877 0.203,0.258 0.46,0.468 0.753,0.616 0.572,0.212 1.201,0.212 1.773,0l0.309,-0.098c0.862,-0.276 1.187,-0.778 0.943,-1.54 -0.044,-0.187 -0.139,-0.359 -0.274,-0.496 -0.134,-0.137 -0.304,-0.235 -0.49,-0.283 -0.336,-0.093 -0.69,-0.093 -1.025,0l-0.341,0.097 -0.602,-1.946h0.309c0.814,-0.293 1.706,-0.293 2.52,0 0.407,0.181 0.766,0.454 1.048,0.798 0.283,0.343 0.481,0.748 0.579,1.181 0.151,0.414 0.205,0.856 0.16,1.295 -0.045,0.438 -0.189,0.86 -0.421,1.235 -0.429,0.689 -1.102,1.192 -1.886,1.411l-0.569,0.162c-0.76,0.285 -1.598,0.285 -2.358,0 -0.314,-0.132 -0.605,-0.313 -0.862,-0.535 -0.155,0.712 -0.537,1.355 -1.09,1.832 -0.335,0.299 -0.736,0.516 -1.17,0.633l-1.057,0.324c-0.443,0.153 -0.913,0.209 -1.379,0.164 -0.466,-0.044 -0.916,-0.189 -1.321,-0.423 -0.787,-0.438 -1.371,-1.166 -1.626,-2.027 -0.135,-0.415 -0.185,-0.851 -0.147,-1.285 0.038,-0.434 0.163,-0.855 0.368,-1.24 0.205,-0.384 0.485,-0.723 0.825,-0.997 0.339,-0.274 0.73,-0.478 1.149,-0.598l0.325,-0.097 0.732,1.849 -0.455,0.194c-0.3,0.107 -0.549,0.321 -0.699,0.6 -0.056,0.287 0.002,0.584 0.162,0.828zM353.938,183.588l10.456,-2.043 -0.341,-1.735 1.431,-0.276c0.158,0.493 0.444,0.935 0.829,1.281 0.362,0.371 0.826,0.625 1.334,0.73l0.276,1.427 -13.579,2.66 -0.406,-2.044zM358.751,193.335c-0.429,0.073 -0.87,0.056 -1.293,-0.05 -0.422,-0.106 -0.818,-0.299 -1.162,-0.566 -0.35,-0.255 -0.646,-0.577 -0.869,-0.947 -0.224,-0.371 -0.37,-0.782 -0.432,-1.21 -0.072,-0.429 -0.056,-0.868 0.046,-1.29 0.103,-0.423 0.289,-0.821 0.548,-1.171 0.26,-0.349 0.587,-0.643 0.962,-0.864 0.376,-0.221 0.792,-0.364 1.225,-0.421l7.48,-1.103c0.427,-0.063 0.863,-0.041 1.281,0.064 0.419,0.105 0.813,0.291 1.16,0.548 0.346,0.257 0.639,0.579 0.86,0.948 0.222,0.37 0.368,0.779 0.431,1.205 0.063,0.426 0.042,0.86 -0.064,1.278 -0.105,0.418 -0.292,0.81 -0.549,1.156 -0.257,0.346 -0.581,0.637 -0.951,0.858 -0.371,0.221 -0.781,0.367 -1.208,0.43l-7.465,1.135zM365.939,190.092c0.158,-0.02 0.31,-0.072 0.447,-0.153s0.256,-0.189 0.35,-0.317c0.188,-0.252 0.269,-0.566 0.228,-0.876 -0.048,-0.314 -0.219,-0.596 -0.475,-0.784 -0.256,-0.189 -0.577,-0.268 -0.891,-0.222l-7.481,1.103c-0.315,0.042 -0.601,0.205 -0.797,0.454 -0.188,0.257 -0.27,0.577 -0.227,0.892 0.021,0.157 0.076,0.307 0.16,0.442 0.084,0.134 0.196,0.249 0.327,0.337 0.121,0.099 0.263,0.171 0.414,0.21 0.152,0.04 0.311,0.045 0.465,0.017l7.48,-1.103zM368.427,209.731h-2.96c0.307,0.218 0.549,0.516 0.699,0.86 0.09,0.221 0.134,0.459 0.131,0.697 0.034,0.389 -0.033,0.781 -0.195,1.136 -0.163,0.356 -0.415,0.663 -0.732,0.892 -0.698,0.428 -1.508,0.637 -2.326,0.6h-2.976c-0.463,0.024 -0.927,-0.046 -1.363,-0.205 -0.436,-0.158 -0.835,-0.403 -1.174,-0.72 -0.318,-0.296 -0.571,-0.655 -0.742,-1.055 -0.17,-0.399 -0.256,-0.83 -0.25,-1.264 -0.016,-0.428 0.062,-0.854 0.228,-1.249 0.165,-0.395 0.415,-0.749 0.732,-1.038 0.624,-0.586 1.451,-0.911 2.309,-0.908h0.325l0.179,1.995h-0.472c-0.226,0.005 -0.447,0.07 -0.639,0.19s-0.347,0.29 -0.45,0.491c-0.025,0.123 -0.025,0.25 0,0.373 -0.018,0.179 0.006,0.36 0.07,0.528 0.064,0.168 0.166,0.32 0.298,0.442 0.133,0.123 0.292,0.213 0.465,0.264 0.173,0.051 0.355,0.062 0.533,0.031h3.382c0.189,0.003 0.376,-0.037 0.548,-0.115 0.172,-0.079 0.323,-0.195 0.444,-0.339 0.125,-0.169 0.188,-0.375 0.179,-0.584 0.008,-0.162 -0.029,-0.323 -0.106,-0.466 -0.077,-0.143 -0.192,-0.262 -0.333,-0.345 -0.243,-0.137 -0.517,-0.21 -0.797,-0.211h-0.374v-2.076l7.562,-0.113 0.098,6.082h-2.098l-0.195,-3.893zM365.516,230.686c0.548,0.042 1.08,0.195 1.567,0.449 0.486,0.254 0.916,0.603 1.263,1.027 0.257,0.357 0.439,0.762 0.534,1.192 0.095,0.429 0.101,0.873 0.019,1.305 -0.054,0.434 -0.201,0.851 -0.431,1.223 -0.231,0.372 -0.538,0.691 -0.903,0.934 -0.726,0.527 -1.631,0.748 -2.52,0.616 -0.932,-0.135 -1.822,-0.479 -2.602,-1.005 -0.798,-0.584 -1.548,-1.229 -2.244,-1.93 -0.293,-0.281 -0.748,-0.687 -1.366,-1.217l-0.488,-0.454c-0.342,-0.292 -0.602,-0.518 -0.797,-0.664l-0.179,-0.13 -0.585,4.054 -2.017,-0.292 0.943,-6.487 1.887,0.276c0.251,0.16 0.485,0.345 0.699,0.551l0.634,0.568 0.683,0.649 1.854,1.767c0.674,0.664 1.415,1.257 2.212,1.768 0.491,0.32 1.046,0.53 1.626,0.616 0.38,0.068 0.772,-0.001 1.106,-0.194 0.166,-0.093 0.307,-0.223 0.412,-0.381 0.104,-0.158 0.169,-0.339 0.19,-0.527 0.037,-0.286 -0.023,-0.575 -0.17,-0.822 -0.148,-0.247 -0.374,-0.438 -0.644,-0.541 -0.244,-0.124 -0.508,-0.206 -0.78,-0.243h-0.521l0.293,-2.027 0.325,-0.081zM359.744,236.865l7.903,5.254 -0.406,2.044 -8.603,-1.622 -0.244,1.314 -2.065,-0.406 0.26,-1.297 -2.927,-0.568 0.39,-2.043 2.927,0.567 0.699,-3.6 2.066,0.357zM359.044,240.465l4.245,0.827 -3.919,-2.514 -0.326,1.687zM350.458,253.974l10.18,3.098 0.52,-1.703 1.399,0.421c-0.108,0.542 -0.063,1.104 0.13,1.622 0.146,0.494 0.434,0.934 0.829,1.265l-0.439,1.395 -13.221,-4.038 0.602,-2.06zM357.76,264.873l0.325,0.129c0.29,0.098 0.604,0.098 0.894,0 0.139,-0.045 0.265,-0.124 0.366,-0.228 0.102,-0.105 0.178,-0.232 0.22,-0.372 0.064,-0.128 0.098,-0.27 0.098,-0.413 0,-0.144 -0.034,-0.285 -0.098,-0.414 -0.174,-0.255 -0.424,-0.448 -0.716,-0.551l-2.602,-0.925c0.197,0.523 0.197,1.099 0,1.622 -0.115,0.384 -0.324,0.733 -0.608,1.016 -0.283,0.283 -0.633,0.491 -1.018,0.606 -0.801,0.173 -1.637,0.094 -2.391,-0.227l-2.244,-0.795c-0.777,-0.295 -1.411,-0.875 -1.772,-1.622 -0.174,-0.378 -0.27,-0.787 -0.283,-1.202 -0.012,-0.416 0.06,-0.83 0.212,-1.218 0.152,-0.387 0.38,-0.74 0.672,-1.038 0.291,-0.297 0.64,-0.533 1.025,-0.693 0.792,-0.325 1.68,-0.325 2.472,0l7.106,2.53c0.636,0.198 1.201,0.575 1.627,1.086 0.407,0.485 0.647,1.088 0.683,1.719 0.025,0.43 -0.036,0.86 -0.179,1.265 -0.127,0.399 -0.338,0.765 -0.618,1.076 -0.281,0.31 -0.625,0.557 -1.008,0.725 -0.792,0.324 -1.68,0.324 -2.472,0l-0.277,-0.098 0.586,-1.978zM351.661,260.51c-0.285,-0.095 -0.593,-0.095 -0.878,0 -0.142,0.048 -0.271,0.128 -0.375,0.235 -0.105,0.108 -0.183,0.238 -0.227,0.381 -0.056,0.137 -0.078,0.285 -0.064,0.432 0.015,0.147 0.065,0.288 0.146,0.412 0.16,0.257 0.409,0.447 0.699,0.535l2.407,0.859c0.17,0.08 0.356,0.121 0.545,0.121 0.188,0 0.374,-0.041 0.544,-0.121 0.179,-0.113 0.311,-0.285 0.374,-0.486 0.061,-0.152 0.081,-0.318 0.059,-0.48 -0.023,-0.162 -0.088,-0.315 -0.189,-0.445 -0.174,-0.214 -0.405,-0.377 -0.666,-0.47l-2.375,-0.973zM343.253,277.376c-0.116,0.151 -0.195,0.327 -0.231,0.513 -0.036,0.187 -0.028,0.38 0.024,0.563 0.052,0.183 0.147,0.351 0.276,0.491 0.129,0.14 0.29,0.248 0.468,0.314l0.732,0.357c0.249,0.168 0.535,0.275 0.833,0.312 0.299,0.038 0.602,0.004 0.886,-0.097 0.283,-0.101 0.538,-0.267 0.746,-0.484 0.207,-0.218 0.36,-0.481 0.446,-0.769l1.626,0.811c-0.17,0.28 -0.276,0.594 -0.31,0.919 -0.034,0.325 0.006,0.654 0.115,0.962 0.25,0.557 0.704,0.998 1.268,1.233l0.293,0.146c0.797,0.406 1.382,0.243 1.74,-0.454 0.101,-0.163 0.154,-0.352 0.154,-0.543 0,-0.192 -0.053,-0.38 -0.154,-0.544 -0.198,-0.285 -0.467,-0.514 -0.78,-0.665l-0.326,-0.162 0.911,-1.816 0.293,0.146c0.79,0.352 1.43,0.973 1.805,1.751 0.187,0.412 0.273,0.862 0.25,1.314 -0.023,0.451 -0.153,0.89 -0.38,1.281 -0.183,0.396 -0.451,0.747 -0.786,1.027 -0.334,0.281 -0.727,0.484 -1.15,0.595 -0.789,0.208 -1.628,0.104 -2.341,-0.292l-0.537,-0.259c-0.715,-0.335 -1.291,-0.909 -1.626,-1.622 -0.129,-0.316 -0.211,-0.65 -0.244,-0.989 -0.61,0.405 -1.334,0.604 -2.065,0.567 -0.449,-0.014 -0.889,-0.13 -1.285,-0.34l-0.976,-0.503c-0.43,-0.194 -0.813,-0.478 -1.122,-0.834 -0.309,-0.355 -0.536,-0.774 -0.667,-1.226 -0.262,-0.858 -0.174,-1.785 0.244,-2.579 0.196,-0.383 0.467,-0.724 0.796,-1.003 0.33,-0.278 0.711,-0.489 1.123,-0.618 0.407,-0.145 0.84,-0.204 1.271,-0.173 0.431,0.031 0.851,0.15 1.234,0.351l0.309,0.162 -0.748,1.833 -0.456,-0.179c-0.299,-0.112 -0.628,-0.112 -0.927,0 -0.15,0.029 -0.293,0.089 -0.419,0.175 -0.125,0.087 -0.232,0.199 -0.313,0.328zM339.366,284.512c-0.122,0.145 -0.209,0.316 -0.253,0.499 -0.045,0.184 -0.046,0.375 -0.003,0.56 0.043,0.184 0.128,0.356 0.248,0.501 0.121,0.146 0.274,0.261 0.448,0.338l0.715,0.405c0.24,0.177 0.517,0.296 0.811,0.348 0.293,0.051 0.595,0.034 0.881,-0.051 0.285,-0.085 0.547,-0.235 0.764,-0.439 0.218,-0.203 0.385,-0.455 0.488,-0.734l1.626,0.892c-0.188,0.269 -0.313,0.575 -0.367,0.898 -0.053,0.323 -0.034,0.653 0.058,0.968 0.236,0.564 0.661,1.028 1.203,1.313l0.293,0.146c0.78,0.454 1.366,0.341 1.756,-0.357 0.103,-0.163 0.157,-0.351 0.157,-0.543 0,-0.192 -0.054,-0.38 -0.157,-0.543 -0.179,-0.298 -0.438,-0.54 -0.748,-0.698l-0.309,-0.178 1.008,-1.768 0.277,0.162c0.77,0.389 1.375,1.039 1.707,1.833 0.166,0.422 0.228,0.878 0.183,1.329 -0.045,0.451 -0.197,0.884 -0.443,1.266 -0.194,0.405 -0.478,0.762 -0.83,1.043 -0.352,0.281 -0.763,0.478 -1.203,0.579 -0.8,0.155 -1.63,0.004 -2.325,-0.422l-0.52,-0.292c-0.707,-0.399 -1.252,-1.029 -1.545,-1.784 -0.115,-0.318 -0.181,-0.652 -0.195,-0.989 -0.628,0.368 -1.357,0.527 -2.082,0.454 -0.45,-0.041 -0.884,-0.186 -1.268,-0.422l-0.96,-0.551c-0.409,-0.22 -0.765,-0.526 -1.046,-0.895 -0.28,-0.369 -0.478,-0.794 -0.58,-1.246 -0.216,-0.872 -0.075,-1.794 0.39,-2.562 0.211,-0.38 0.496,-0.713 0.839,-0.981 0.343,-0.268 0.736,-0.464 1.156,-0.577 0.42,-0.114 0.858,-0.142 1.289,-0.083 0.432,0.058 0.847,0.203 1.221,0.424l0.292,0.162 -0.861,1.801 -0.439,-0.211c-0.287,-0.144 -0.617,-0.179 -0.927,-0.097 -0.153,0.028 -0.298,0.087 -0.427,0.174 -0.128,0.086 -0.238,0.198 -0.322,0.328zM326.991,299.482l8.456,6.487 1.074,-1.411 1.154,0.876c-0.254,0.457 -0.393,0.969 -0.406,1.492 -0.03,0.512 0.083,1.023 0.325,1.476l-0.878,1.151 -10.993,-8.385 1.268,-1.686zM322.634,319.721c0.408,0.364 0.738,0.809 0.967,1.305 0.229,0.497 0.354,1.035 0.366,1.582 -0.006,0.44 -0.105,0.873 -0.29,1.273 -0.185,0.399 -0.452,0.756 -0.783,1.046 -0.307,0.312 -0.679,0.555 -1.088,0.712 -0.41,0.157 -0.849,0.224 -1.287,0.196 -0.445,-0.006 -0.884,-0.101 -1.292,-0.279 -0.408,-0.178 -0.776,-0.436 -1.082,-0.759 -0.654,-0.674 -1.153,-1.482 -1.463,-2.368 -0.273,-0.951 -0.474,-1.921 -0.602,-2.903l-0.342,-1.784 -0.13,-0.664 -0.211,-1.006 -0.081,-0.195 -2.911,2.855 -1.431,-1.46 4.732,-4.622 1.333,1.362c0.101,0.279 0.171,0.567 0.212,0.86l0.162,0.827 0.147,0.941 0.406,2.53c0.123,0.931 0.352,1.845 0.683,2.724 0.187,0.547 0.492,1.045 0.895,1.46 0.258,0.285 0.61,0.468 0.992,0.519 0.19,0.021 0.383,-0.001 0.564,-0.066 0.18,-0.064 0.343,-0.17 0.476,-0.307 0.212,-0.209 0.345,-0.484 0.378,-0.779 0.032,-0.296 -0.038,-0.593 -0.199,-0.843 -0.122,-0.239 -0.281,-0.458 -0.471,-0.649l-0.374,-0.373 1.463,-1.443 0.261,0.308zM306.826,325.138c-0.286,-0.326 -0.505,-0.705 -0.644,-1.115 -0.139,-0.41 -0.196,-0.844 -0.168,-1.276 0.029,-0.433 0.143,-0.855 0.335,-1.243 0.192,-0.389 0.46,-0.735 0.786,-1.021 0.327,-0.285 0.707,-0.504 1.118,-0.643 0.412,-0.139 0.847,-0.195 1.28,-0.167 0.433,0.029 0.857,0.142 1.246,0.334 0.39,0.192 0.737,0.459 1.024,0.784l4.976,5.66c0.29,0.326 0.511,0.706 0.651,1.118 0.14,0.412 0.195,0.849 0.162,1.283 -0.017,0.664 -0.238,1.308 -0.634,1.843 -0.396,0.535 -0.947,0.936 -1.578,1.148 -0.632,0.212 -1.314,0.226 -1.954,0.039 -0.64,-0.187 -1.206,-0.565 -1.623,-1.084l-4.977,-5.66zM313.461,329.403c0.1,0.12 0.224,0.219 0.364,0.289 0.14,0.069 0.293,0.109 0.449,0.117 0.159,0.019 0.321,0.003 0.473,-0.047 0.152,-0.051 0.29,-0.134 0.406,-0.245 0.12,-0.1 0.219,-0.223 0.289,-0.363 0.07,-0.14 0.11,-0.292 0.117,-0.448 0.012,-0.16 -0.009,-0.32 -0.062,-0.471 -0.053,-0.15 -0.137,-0.289 -0.247,-0.405l-4.976,-5.66c-0.099,-0.122 -0.223,-0.222 -0.363,-0.295 -0.14,-0.072 -0.293,-0.116 -0.45,-0.127 -0.32,-0.021 -0.635,0.084 -0.878,0.292 -0.235,0.215 -0.38,0.51 -0.407,0.827 -0.021,0.319 0.084,0.634 0.293,0.876l4.992,5.66zM294.467,330.555l6.066,8.709 1.463,-1.006 0.83,1.201c-0.385,0.343 -0.676,0.778 -0.846,1.265 -0.192,0.478 -0.243,1.001 -0.147,1.508l-1.187,0.843 -7.903,-11.352 1.724,-1.168zM294.239,336.896l1.513,9.358 -1.773,1.103 -4.635,-7.412 -1.138,0.714 -1.106,-1.784 1.122,-0.698 -1.626,-2.53 1.773,-1.086 1.626,2.514 3.122,-1.947 1.122,1.768zM291.101,338.842l2.293,3.649 -0.83,-4.557 -1.463,0.908zM273.668,344.794c-0.185,0.048 -0.356,0.139 -0.5,0.264 -0.143,0.126 -0.255,0.284 -0.326,0.46 -0.071,0.177 -0.1,0.368 -0.084,0.558 0.017,0.19 0.077,0.373 0.178,0.535l0.341,0.73c0.092,0.283 0.249,0.541 0.459,0.753 0.209,0.212 0.465,0.373 0.748,0.469 0.283,0.096 0.584,0.125 0.88,0.085 0.296,-0.041 0.578,-0.15 0.824,-0.318l0.748,1.622c-0.306,0.111 -0.584,0.29 -0.812,0.523 -0.228,0.233 -0.401,0.514 -0.505,0.823 -0.151,0.597 -0.07,1.228 0.228,1.768l0.13,0.292c0.39,0.81 0.943,1.054 1.626,0.713 0.18,-0.068 0.337,-0.184 0.455,-0.336 0.118,-0.151 0.191,-0.333 0.212,-0.523 0.024,-0.349 -0.049,-0.697 -0.212,-1.006l-0.146,-0.324 1.854,-0.86 0.13,0.292c0.394,0.77 0.509,1.653 0.325,2.498 -0.11,0.44 -0.324,0.847 -0.624,1.189 -0.3,0.341 -0.677,0.606 -1.1,0.773 -0.399,0.188 -0.835,0.285 -1.276,0.285 -0.442,0 -0.878,-0.097 -1.277,-0.285 -0.722,-0.325 -1.3,-0.902 -1.626,-1.622l-0.244,-0.535c-0.355,-0.726 -0.436,-1.555 -0.228,-2.335 0.085,-0.333 0.222,-0.651 0.407,-0.941 -0.728,-0.058 -1.418,-0.348 -1.968,-0.827 -0.343,-0.289 -0.611,-0.656 -0.78,-1.071l-0.472,-0.989c-0.2,-0.407 -0.317,-0.85 -0.344,-1.302 -0.026,-0.453 0.038,-0.906 0.19,-1.334 0.151,-0.427 0.387,-0.82 0.692,-1.156 0.306,-0.335 0.676,-0.606 1.088,-0.797 0.393,-0.187 0.82,-0.293 1.254,-0.312 0.435,-0.019 0.87,0.049 1.277,0.2 0.408,0.151 0.782,0.383 1.098,0.68 0.317,0.298 0.57,0.656 0.746,1.053l0.146,0.308 -1.74,0.973 -0.244,-0.421c-0.142,-0.284 -0.386,-0.504 -0.683,-0.616 -0.279,-0.09 -0.583,-0.067 -0.845,0.064zM266.821,345.605l4.049,9.731 1.627,-0.665 0.553,1.346c-0.456,0.256 -0.836,0.624 -1.106,1.071 -0.287,0.429 -0.45,0.928 -0.472,1.443l-1.333,0.551 -5.253,-12.779 1.935,-0.698zM252.185,365.18c-0.41,0.117 -0.841,0.142 -1.262,0.075 -0.422,-0.067 -0.823,-0.226 -1.177,-0.464 -0.724,-0.456 -1.238,-1.179 -1.431,-2.011l-1.919,-7.282c-0.12,-0.411 -0.158,-0.842 -0.111,-1.268 0.048,-0.426 0.179,-0.838 0.388,-1.213 0.204,-0.369 0.483,-0.692 0.817,-0.95 0.335,-0.258 0.719,-0.445 1.128,-0.55 0.41,-0.104 0.836,-0.125 1.254,-0.059 0.418,0.065 0.818,0.215 1.175,0.44 0.713,0.467 1.224,1.185 1.431,2.011v0.292l-2.081,0.551 -0.098,-0.324c-0.063,-0.301 -0.23,-0.571 -0.472,-0.762 -0.117,-0.087 -0.254,-0.144 -0.398,-0.166 -0.145,-0.023 -0.292,-0.01 -0.431,0.036 -0.142,0.027 -0.276,0.089 -0.389,0.179 -0.114,0.091 -0.203,0.207 -0.261,0.34 -0.099,0.289 -0.099,0.603 0,0.892l0.699,2.66c0.187,-0.286 0.431,-0.531 0.717,-0.718 0.286,-0.188 0.608,-0.314 0.945,-0.372 0.337,-0.058 0.683,-0.046 1.016,0.036 0.332,0.081 0.644,0.23 0.916,0.437 0.607,0.562 1.023,1.299 1.187,2.109l0.602,2.286c0.137,0.597 0.109,1.219 -0.082,1.801 -0.161,0.488 -0.444,0.927 -0.823,1.276 -0.378,0.349 -0.839,0.596 -1.34,0.718zM250.283,362.245c0.078,0.299 0.249,0.565 0.488,0.762 0.117,0.087 0.254,0.143 0.399,0.166 0.144,0.023 0.292,0.01 0.43,-0.036 0.142,-0.03 0.274,-0.092 0.387,-0.183 0.113,-0.09 0.203,-0.205 0.264,-0.336 0.099,-0.295 0.099,-0.614 0,-0.908l-0.651,-2.465c-0.05,-0.182 -0.136,-0.352 -0.253,-0.5 -0.118,-0.148 -0.264,-0.27 -0.43,-0.36 -0.161,-0.062 -0.334,-0.081 -0.505,-0.057 -0.17,0.024 -0.332,0.091 -0.469,0.196 -0.137,0.104 -0.245,0.241 -0.313,0.398 -0.069,0.158 -0.096,0.33 -0.079,0.501v0.389l0.732,2.433zM233.109,364.888c0.098,0.538 0.084,1.09 -0.039,1.622 -0.123,0.533 -0.353,1.035 -0.676,1.476 -0.279,0.341 -0.625,0.622 -1.016,0.826 -0.392,0.203 -0.821,0.325 -1.261,0.358 -0.437,0.055 -0.882,0.015 -1.303,-0.116 -0.421,-0.132 -0.808,-0.352 -1.136,-0.646 -0.693,-0.561 -1.137,-1.371 -1.236,-2.255 -0.107,-0.935 -0.001,-1.883 0.309,-2.773 0.37,-0.916 0.805,-1.805 1.301,-2.66l0.829,-1.621 0.309,-0.6 0.456,-0.925v-0.211l-4.066,0.471 -0.244,-2.011 6.586,-0.763 0.228,1.898c-0.1,0.278 -0.22,0.549 -0.358,0.811l-0.406,0.746 -0.342,0.876 -1.252,2.238c-0.46,0.822 -0.841,1.685 -1.138,2.578 -0.168,0.523 -0.235,1.074 -0.195,1.622 0.041,0.383 0.207,0.741 0.471,1.022 0.136,0.132 0.3,0.232 0.481,0.291 0.18,0.059 0.372,0.076 0.56,0.049 0.289,-0.032 0.559,-0.162 0.763,-0.369 0.204,-0.207 0.331,-0.477 0.359,-0.766 0.05,-0.262 0.05,-0.532 0,-0.795v-0.535l2.033,-0.243 -0.017,0.405zM224.539,365.878c0.07,0.54 0.03,1.088 -0.118,1.612s-0.401,1.013 -0.744,1.437c-0.3,0.327 -0.664,0.589 -1.069,0.77 -0.406,0.182 -0.844,0.278 -1.289,0.284 -0.437,0.029 -0.876,-0.035 -1.288,-0.185 -0.412,-0.151 -0.787,-0.387 -1.102,-0.691 -0.658,-0.607 -1.054,-1.444 -1.106,-2.335 -0.054,-0.938 0.107,-1.875 0.472,-2.741 0.409,-0.904 0.893,-1.772 1.447,-2.595l0.911,-1.622 0.341,-0.567 0.504,-0.909c0,-0.113 0.082,-0.178 0,-0.211l-4.082,0.26 -0.113,-2.043 6.618,-0.39 0.114,1.898c-0.109,0.277 -0.246,0.543 -0.406,0.794l-0.439,0.73 -0.488,0.811 -1.366,2.157c-0.511,0.793 -0.942,1.636 -1.285,2.514 -0.206,0.515 -0.306,1.067 -0.293,1.622 0.013,0.385 0.163,0.753 0.423,1.038 0.127,0.139 0.283,0.247 0.458,0.317 0.174,0.07 0.362,0.1 0.55,0.088 0.289,-0.021 0.563,-0.138 0.778,-0.331 0.215,-0.194 0.359,-0.454 0.409,-0.739 0.045,-0.269 0.045,-0.543 0,-0.811v-0.519l2.049,-0.13 0.114,0.487zM205.725,356.293l-0.44,10.607h1.773v1.459c-0.518,0.042 -1.016,0.215 -1.447,0.503 -0.439,0.272 -0.793,0.659 -1.025,1.119h-1.463l0.585,-13.785 2.017,0.097zM194.942,358.661c0.03,-0.435 0.151,-0.859 0.356,-1.245 0.204,-0.385 0.488,-0.724 0.832,-0.993 0.328,-0.283 0.711,-0.495 1.125,-0.623 0.414,-0.129 0.85,-0.17 1.281,-0.123h0.163c0.434,0.032 0.856,0.151 1.243,0.349 0.387,0.198 0.73,0.472 1.009,0.805 0.279,0.332 0.488,0.717 0.615,1.132 0.127,0.415 0.17,0.85 0.125,1.282l-0.114,1.249c-0.056,0.816 -0.43,1.578 -1.04,2.124 -0.155,0 -0.308,0.032 -0.449,0.095 -0.141,0.063 -0.267,0.155 -0.37,0.27 -0.102,0.115 -0.179,0.25 -0.225,0.397 -0.046,0.147 -0.061,0.303 -0.042,0.456 0.019,0.152 0.07,0.3 0.15,0.432 0.08,0.131 0.187,0.245 0.314,0.332 0.127,0.087 0.272,0.147 0.424,0.174 0.152,0.027 0.308,0.022 0.458,-0.015 0.134,0.424 0.173,0.873 0.114,1.314v0.746c-0.05,0.812 -0.404,1.576 -0.992,2.14 -0.32,0.299 -0.701,0.523 -1.117,0.657 -0.416,0.135 -0.856,0.176 -1.29,0.122h-0.179c-0.44,-0.023 -0.869,-0.143 -1.257,-0.35 -0.387,-0.208 -0.725,-0.498 -0.987,-0.85 -0.476,-0.662 -0.685,-1.479 -0.586,-2.287v-0.746c0.017,-0.387 0.111,-0.767 0.275,-1.117 0.165,-0.351 0.398,-0.666 0.685,-0.926 0.235,-0.228 0.511,-0.41 0.813,-0.536 -0.493,-0.324 -0.889,-0.776 -1.144,-1.308 -0.255,-0.531 -0.36,-1.122 -0.303,-1.708l0.113,-1.249zM196.325,365.862c-0.065,0.94 0.179,1.557 0.732,1.849 0.147,0.073 0.307,0.117 0.471,0.129 0.316,0.041 0.636,-0.04 0.895,-0.227 0.206,-0.137 0.366,-0.336 0.455,-0.567 0.109,-0.302 0.169,-0.62 0.179,-0.941 0.054,-0.446 -0.008,-0.898 -0.179,-1.314 -0.096,-0.189 -0.242,-0.348 -0.423,-0.46 -0.181,-0.111 -0.389,-0.171 -0.602,-0.172 -0.214,-0.031 -0.433,-0.004 -0.634,0.079 -0.2,0.082 -0.374,0.218 -0.504,0.391 -0.24,0.374 -0.375,0.805 -0.39,1.249v-0.016zM196.943,359.813c-0.055,0.283 -0.047,0.575 0.023,0.855 0.07,0.281 0.201,0.542 0.383,0.766 0.206,0.159 0.456,0.249 0.716,0.26 0.236,0.042 0.48,0.006 0.694,-0.102 0.214,-0.108 0.387,-0.283 0.493,-0.498 0.168,-0.35 0.262,-0.731 0.276,-1.119v-0.665c0.025,-0.202 0.01,-0.406 -0.046,-0.601 -0.056,-0.195 -0.151,-0.377 -0.279,-0.535 -0.214,-0.252 -0.516,-0.414 -0.846,-0.454 -0.258,-0.018 -0.515,0.042 -0.739,0.172 -0.223,0.13 -0.402,0.325 -0.513,0.558 -0.1,0.198 -0.16,0.412 -0.179,0.633l0.017,0.73zM182.144,363.542c-0.08,0.534 -0.264,1.046 -0.543,1.509 -0.279,0.462 -0.647,0.864 -1.083,1.183 -0.377,0.236 -0.797,0.392 -1.236,0.459 -0.44,0.067 -0.888,0.043 -1.317,-0.069 -0.428,-0.09 -0.832,-0.27 -1.186,-0.527 -0.353,-0.257 -0.647,-0.586 -0.863,-0.965 -0.237,-0.372 -0.398,-0.787 -0.473,-1.222 -0.076,-0.434 -0.064,-0.879 0.033,-1.308 0.193,-0.925 0.599,-1.791 1.188,-2.53 0.645,-0.755 1.346,-1.459 2.097,-2.109l1.301,-1.249 0.488,-0.47 0.732,-0.746 0.114,-0.162 -4.017,-0.811 0.439,-1.978 6.505,1.394 -0.39,1.865c-0.189,0.232 -0.396,0.449 -0.618,0.649l-0.618,0.584 -0.683,0.649c-0.407,0.356 -1.041,0.924 -1.903,1.719 -0.71,0.623 -1.353,1.319 -1.919,2.076 -0.355,0.483 -0.604,1.036 -0.732,1.621 -0.087,0.376 -0.047,0.769 0.114,1.119 0.11,0.211 0.276,0.388 0.479,0.511 0.204,0.124 0.438,0.189 0.676,0.189 0.238,0 0.472,-0.065 0.675,-0.189 0.204,-0.123 0.37,-0.3 0.479,-0.511 0.132,-0.232 0.226,-0.484 0.277,-0.746l0.114,-0.519 2,0.438 -0.13,0.146zM169.443,364.71c-0.421,-0.109 -0.813,-0.312 -1.145,-0.592 -0.332,-0.281 -0.597,-0.633 -0.773,-1.03 -0.396,-0.755 -0.478,-1.634 -0.228,-2.449l2,-7.265c0.215,-0.836 0.745,-1.557 1.48,-2.011 0.359,-0.221 0.76,-0.363 1.177,-0.419 0.417,-0.056 0.842,-0.024 1.246,0.094 0.423,0.111 0.815,0.314 1.15,0.595 0.335,0.28 0.603,0.631 0.785,1.027 0.4,0.759 0.482,1.646 0.228,2.465l-0.081,0.292 -2.098,-0.568 0.097,-0.34c0.108,-0.288 0.108,-0.604 0,-0.892 -0.058,-0.133 -0.147,-0.249 -0.261,-0.34 -0.113,-0.09 -0.247,-0.152 -0.389,-0.179 -0.137,-0.049 -0.284,-0.064 -0.429,-0.044 -0.144,0.02 -0.281,0.074 -0.4,0.157 -0.238,0.192 -0.409,0.453 -0.488,0.746l-0.732,2.66c0.5,-0.259 1.078,-0.328 1.626,-0.194 0.388,0.078 0.749,0.253 1.05,0.508 0.302,0.255 0.533,0.583 0.674,0.951 0.252,0.78 0.252,1.62 0,2.4l-0.634,2.287c-0.191,0.582 -0.534,1.102 -0.992,1.508 -0.452,0.411 -1.02,0.671 -1.627,0.746 -0.415,0.049 -0.836,0.01 -1.236,-0.113zM169.281,361.223c-0.107,0.288 -0.107,0.604 0,0.892 0.064,0.13 0.155,0.245 0.266,0.337 0.112,0.092 0.242,0.16 0.382,0.198 0.14,0.038 0.287,0.047 0.43,0.024 0.143,-0.022 0.28,-0.074 0.402,-0.154 0.237,-0.191 0.408,-0.452 0.488,-0.746l0.666,-2.465c0.058,-0.18 0.075,-0.372 0.05,-0.559 -0.026,-0.188 -0.093,-0.368 -0.196,-0.527 -0.129,-0.167 -0.313,-0.282 -0.52,-0.325 -0.23,-0.076 -0.479,-0.063 -0.699,0.036 -0.22,0.099 -0.395,0.278 -0.489,0.5 -0.055,0.116 -0.104,0.235 -0.146,0.356l-0.634,2.433zM147.18,356.633l0.813,-1.929 7.269,-9.731 1.87,0.794 -7.253,9.731 3.903,1.622 -0.813,1.93 -5.789,-2.417zM133.748,345.394c-0.257,0.482 -0.608,0.906 -1.033,1.249 -0.424,0.343 -0.914,0.596 -1.439,0.746 -0.433,0.099 -0.881,0.108 -1.317,0.027 -0.437,-0.081 -0.852,-0.25 -1.22,-0.497 -0.375,-0.228 -0.697,-0.533 -0.946,-0.893 -0.25,-0.36 -0.42,-0.769 -0.502,-1.199 -0.201,-0.871 -0.049,-1.786 0.423,-2.546 0.492,-0.804 1.166,-1.482 1.968,-1.979 0.854,-0.5 1.746,-0.934 2.667,-1.297l1.626,-0.763 0.602,-0.275c0.407,-0.195 0.715,-0.341 0.927,-0.454 0.211,-0.114 0.179,-0.114 0.179,-0.13l-3.48,-2.125 1.057,-1.751 5.659,3.47 -0.992,1.622c-0.254,0.157 -0.52,0.293 -0.797,0.406l-0.764,0.356 -0.878,0.39c-0.504,0.194 -1.285,0.535 -2.358,0.989 -0.877,0.353 -1.716,0.793 -2.505,1.314 -0.475,0.324 -0.884,0.737 -1.203,1.216 -0.211,0.326 -0.298,0.718 -0.244,1.103 0.023,0.187 0.089,0.367 0.193,0.525 0.105,0.157 0.244,0.289 0.409,0.383 0.253,0.159 0.554,0.225 0.851,0.187 0.297,-0.039 0.571,-0.179 0.775,-0.398 0.209,-0.173 0.385,-0.381 0.52,-0.616l0.277,-0.438 1.74,1.07 -0.195,0.308zM124.738,331.479c0.245,-0.36 0.559,-0.668 0.925,-0.905s0.776,-0.398 1.206,-0.473c0.428,-0.078 0.867,-0.069 1.292,0.026 0.424,0.094 0.826,0.273 1.18,0.525l0.13,0.098c0.362,0.236 0.671,0.546 0.906,0.909 0.236,0.364 0.392,0.772 0.46,1.199 0.08,0.426 0.074,0.863 -0.018,1.287 -0.093,0.423 -0.269,0.824 -0.519,1.178l-0.715,1.022c-0.451,0.684 -1.151,1.167 -1.952,1.346 -0.361,0.057 -0.729,0.057 -1.089,0 0.312,0.586 0.404,1.265 0.26,1.913 -0.097,0.435 -0.286,0.844 -0.553,1.201l-0.423,0.616c-0.444,0.683 -1.129,1.175 -1.919,1.378 -0.427,0.102 -0.872,0.109 -1.302,0.019 -0.431,-0.09 -0.836,-0.273 -1.186,-0.538h-0.146c-0.37,-0.24 -0.683,-0.557 -0.919,-0.93 -0.236,-0.372 -0.388,-0.79 -0.447,-1.227 -0.087,-0.807 0.134,-1.617 0.617,-2.27l0.423,-0.616c0.424,-0.665 1.088,-1.141 1.854,-1.33 0.324,-0.049 0.653,-0.049 0.976,0 -0.312,-0.656 -0.415,-1.393 -0.293,-2.109 0.087,-0.445 0.27,-0.865 0.537,-1.232l0.715,-1.087zM122.38,338.421c-0.257,0.25 -0.423,0.579 -0.473,0.934 -0.05,0.355 0.019,0.716 0.197,1.028 0.077,0.14 0.189,0.257 0.325,0.34 0.261,0.197 0.586,0.289 0.911,0.26 0.244,-0.038 0.473,-0.139 0.667,-0.292 0.249,-0.203 0.459,-0.45 0.618,-0.73 0.265,-0.358 0.438,-0.775 0.504,-1.216 -0.007,-0.212 -0.065,-0.418 -0.168,-0.603 -0.103,-0.185 -0.249,-0.343 -0.425,-0.46 -0.177,-0.117 -0.379,-0.191 -0.59,-0.215 -0.211,-0.024 -0.424,0.003 -0.622,0.078 -0.393,0.194 -0.721,0.499 -0.944,0.876zM125.893,333.458c-0.198,0.216 -0.343,0.475 -0.425,0.756 -0.082,0.281 -0.098,0.577 -0.047,0.866 0.092,0.244 0.264,0.45 0.488,0.583 0.193,0.143 0.427,0.219 0.667,0.219 0.24,0 0.474,-0.076 0.667,-0.219 0.32,-0.224 0.591,-0.511 0.797,-0.843l0.374,-0.535c0.124,-0.162 0.213,-0.348 0.26,-0.547 0.048,-0.198 0.053,-0.404 0.016,-0.605 -0.027,-0.159 -0.085,-0.311 -0.172,-0.447 -0.086,-0.137 -0.199,-0.255 -0.332,-0.347 -0.212,-0.15 -0.464,-0.23 -0.724,-0.23 -0.259,0 -0.512,0.08 -0.723,0.23 -0.192,0.111 -0.354,0.267 -0.472,0.454l-0.374,0.665zM117.534,321.765l-6.928,8.109 1.35,1.151 -0.943,1.103c-0.435,-0.28 -0.932,-0.452 -1.447,-0.503 -0.519,-0.057 -1.043,0.033 -1.513,0.26l-1.106,-0.957 9.01,-10.477 1.577,1.314zM107.94,326.582c-0.343,0.423 -0.77,0.771 -1.254,1.022s-1.015,0.4 -1.559,0.437c-0.444,0.009 -0.885,-0.072 -1.297,-0.24 -0.411,-0.167 -0.783,-0.416 -1.094,-0.733 -0.323,-0.299 -0.579,-0.664 -0.75,-1.069 -0.171,-0.405 -0.253,-0.843 -0.242,-1.282 -0.01,-0.443 0.068,-0.883 0.23,-1.295 0.162,-0.412 0.405,-0.788 0.713,-1.106 0.644,-0.688 1.44,-1.216 2.326,-1.54 0.941,-0.309 1.903,-0.553 2.878,-0.73 0.391,0 0.976,-0.211 1.773,-0.406l0.667,-0.145c0.334,-0.07 0.665,-0.157 0.992,-0.26 0.07,0.01 0.141,0.01 0.211,0l-2.992,-2.789 1.398,-1.493 4.879,4.542 -1.317,1.378c-0.273,0.111 -0.556,0.193 -0.846,0.243 -0.238,0.065 -0.515,0.13 -0.829,0.195l-0.927,0.195c-0.537,0.097 -1.366,0.259 -2.521,0.486 -0.931,0.166 -1.842,0.432 -2.716,0.795 -0.535,0.214 -1.022,0.534 -1.431,0.94 -0.265,0.28 -0.431,0.639 -0.471,1.022 -0.013,0.187 0.017,0.375 0.088,0.549 0.07,0.174 0.179,0.33 0.318,0.457 0.216,0.203 0.495,0.327 0.79,0.35 0.296,0.024 0.591,-0.054 0.836,-0.221 0.238,-0.131 0.453,-0.301 0.635,-0.502l0.357,-0.39 1.496,1.411 -0.341,0.179zM99.565,306.569c-0.093,-0.166 -0.224,-0.307 -0.382,-0.412 -0.158,-0.105 -0.339,-0.172 -0.528,-0.194 -0.189,-0.022 -0.38,0.001 -0.558,0.066 -0.178,0.066 -0.339,0.173 -0.467,0.313l-0.635,0.519c-0.247,0.166 -0.452,0.386 -0.6,0.645 -0.147,0.258 -0.233,0.546 -0.25,0.843 -0.017,0.297 0.034,0.593 0.15,0.867 0.117,0.273 0.295,0.516 0.522,0.71l-1.366,1.151c-0.186,-0.264 -0.429,-0.483 -0.71,-0.643 -0.281,-0.16 -0.594,-0.256 -0.917,-0.281 -0.609,0.027 -1.187,0.275 -1.626,0.697l-0.244,0.211c-0.7,0.584 -0.78,1.168 -0.276,1.768 0.116,0.156 0.273,0.279 0.453,0.353 0.18,0.074 0.378,0.098 0.571,0.069 0.341,-0.07 0.657,-0.233 0.91,-0.471l0.277,-0.227 1.318,1.622 -0.244,0.195c-0.638,0.587 -1.46,0.937 -2.326,0.989 -0.456,0.007 -0.907,-0.094 -1.317,-0.294 -0.41,-0.2 -0.767,-0.494 -1.04,-0.858 -0.298,-0.322 -0.52,-0.705 -0.653,-1.123 -0.132,-0.417 -0.17,-0.859 -0.112,-1.293 0.124,-0.806 0.548,-1.535 1.187,-2.043l0.455,-0.374c0.603,-0.543 1.383,-0.849 2.196,-0.859 0.343,-0.003 0.683,0.052 1.008,0.162 -0.125,-0.714 -0.029,-1.45 0.276,-2.108 0.192,-0.415 0.482,-0.777 0.846,-1.054l0.83,-0.698c0.347,-0.318 0.76,-0.556 1.21,-0.699 0.448,-0.143 0.923,-0.186 1.391,-0.128 0.443,0.046 0.872,0.178 1.262,0.389 0.391,0.212 0.736,0.498 1.015,0.844 0.286,0.327 0.503,0.708 0.638,1.121 0.136,0.412 0.187,0.848 0.15,1.28 -0.036,0.433 -0.159,0.854 -0.362,1.238 -0.202,0.384 -0.48,0.724 -0.816,0.999l-0.26,0.211 -1.399,-1.411 0.342,-0.341c0.235,-0.215 0.38,-0.51 0.406,-0.827 0.02,-0.168 0.002,-0.34 -0.054,-0.5 -0.056,-0.16 -0.15,-0.306 -0.271,-0.424zM87.108,308.644l2.358,-1.784c-0.379,0.011 -0.752,-0.091 -1.073,-0.292 -0.204,-0.12 -0.381,-0.28 -0.52,-0.47 -0.257,-0.296 -0.432,-0.654 -0.509,-1.037 -0.077,-0.384 -0.053,-0.781 0.07,-1.152 0.31,-0.756 0.835,-1.405 1.511,-1.866l2.391,-1.783c0.358,-0.293 0.772,-0.508 1.217,-0.634 0.445,-0.125 0.91,-0.158 1.369,-0.096 0.43,0.053 0.843,0.194 1.216,0.415 0.372,0.22 0.694,0.515 0.947,0.866 0.268,0.336 0.459,0.726 0.56,1.144 0.1,0.417 0.11,0.851 0.025,1.272 -0.163,0.837 -0.64,1.579 -1.334,2.076l-0.26,0.195 -1.317,-1.492 0.342,-0.324c0.183,-0.132 0.325,-0.314 0.409,-0.524 0.083,-0.209 0.105,-0.439 0.062,-0.66 -0.011,-0.131 -0.062,-0.256 -0.146,-0.357 -0.09,-0.155 -0.216,-0.287 -0.366,-0.385 -0.15,-0.098 -0.322,-0.159 -0.5,-0.18 -0.178,-0.02 -0.36,0.001 -0.528,0.063 -0.169,0.061 -0.32,0.161 -0.444,0.291l-2.7,2.027c-0.153,0.111 -0.281,0.254 -0.374,0.419 -0.093,0.166 -0.148,0.349 -0.162,0.538 -0.008,0.212 0.061,0.419 0.195,0.584 0.093,0.135 0.22,0.242 0.37,0.311 0.148,0.068 0.313,0.095 0.476,0.078 0.275,-0.031 0.538,-0.131 0.764,-0.292l0.31,-0.227 1.251,1.622 -6.033,4.541 -3.675,-4.865 1.626,-1.265 2.472,3.243zM83.058,282.793c-0.063,-0.179 -0.167,-0.34 -0.304,-0.472 -0.136,-0.132 -0.301,-0.231 -0.482,-0.289 -0.181,-0.058 -0.373,-0.074 -0.56,-0.046 -0.189,0.028 -0.368,0.099 -0.524,0.207l-0.715,0.389c-0.277,0.112 -0.525,0.286 -0.722,0.51 -0.197,0.224 -0.34,0.491 -0.415,0.779 -0.076,0.288 -0.083,0.59 -0.022,0.882 0.062,0.291 0.192,0.564 0.378,0.797l-1.626,0.876c-0.131,-0.302 -0.33,-0.57 -0.58,-0.784 -0.252,-0.213 -0.548,-0.367 -0.868,-0.449 -0.604,-0.102 -1.225,0.026 -1.74,0.357l-0.276,0.146c-0.797,0.438 -0.992,1.006 -0.602,1.622 0.08,0.175 0.208,0.325 0.369,0.431 0.16,0.106 0.349,0.165 0.542,0.169 0.344,-0.001 0.682,-0.096 0.976,-0.276l0.325,-0.178 0.976,1.784 -0.277,0.146c-0.737,0.457 -1.612,0.641 -2.472,0.519 -0.45,-0.09 -0.872,-0.284 -1.233,-0.565 -0.362,-0.282 -0.652,-0.644 -0.848,-1.057 -0.228,-0.377 -0.37,-0.799 -0.414,-1.236 -0.045,-0.437 0.007,-0.879 0.153,-1.294 0.296,-0.775 0.878,-1.407 1.627,-1.768l0.504,-0.276c0.701,-0.409 1.527,-0.553 2.325,-0.405 0.344,0.063 0.674,0.184 0.976,0.357 0.005,-0.726 0.244,-1.432 0.683,-2.011 0.261,-0.368 0.607,-0.669 1.008,-0.876l0.96,-0.519c0.403,-0.245 0.855,-0.399 1.324,-0.452 0.469,-0.054 0.944,-0.004 1.392,0.144 0.424,0.126 0.818,0.334 1.162,0.612 0.343,0.279 0.628,0.622 0.838,1.01 0.212,0.379 0.346,0.797 0.394,1.229 0.047,0.431 0.007,0.868 -0.118,1.284 -0.124,0.42 -0.332,0.81 -0.612,1.147 -0.28,0.338 -0.624,0.615 -1.014,0.816l-0.293,0.162 -1.09,-1.622 0.391,-0.259c0.278,-0.168 0.48,-0.435 0.57,-0.746 0.078,-0.264 0.055,-0.547 -0.066,-0.795zM67.983,269.69c-0.5,0.215 -1.04,0.326 -1.585,0.326 -0.545,0 -1.085,-0.111 -1.586,-0.326 -0.401,-0.189 -0.76,-0.457 -1.054,-0.789 -0.293,-0.332 -0.516,-0.72 -0.653,-1.141 -0.16,-0.407 -0.232,-0.843 -0.21,-1.279 0.023,-0.437 0.138,-0.863 0.34,-1.251 0.185,-0.403 0.449,-0.765 0.775,-1.066 0.327,-0.3 0.71,-0.534 1.127,-0.686 0.882,-0.328 1.827,-0.456 2.765,-0.373 0.984,0.127 1.957,0.328 2.911,0.6 0.374,0.098 0.976,0.244 1.772,0.422l0.651,0.146c0.44,0.097 0.764,0.162 1.008,0.211 0.075,0.018 0.153,0.018 0.228,0l-1.447,-3.811 1.902,-0.714 2.342,6.179 -1.789,0.681c-0.29,-0.033 -0.579,-0.087 -0.862,-0.162 -0.26,0 -0.536,-0.065 -0.83,-0.195l-0.926,-0.227c-0.52,-0.146 -1.35,-0.357 -2.472,-0.665 -0.913,-0.252 -1.85,-0.41 -2.797,-0.47 -0.552,-0.031 -1.104,0.046 -1.626,0.227 -0.37,0.125 -0.68,0.378 -0.878,0.714 -0.085,0.168 -0.129,0.354 -0.129,0.543 0,0.189 0.044,0.374 0.129,0.543 0.109,0.267 0.304,0.49 0.554,0.634 0.25,0.144 0.542,0.2 0.828,0.161 0.267,-0.013 0.53,-0.068 0.78,-0.162l0.505,-0.195 0.715,1.914 -0.488,0.211zM63.219,257.623l-0.325,0.097c-0.295,0.087 -0.553,0.27 -0.732,0.519 -0.087,0.118 -0.142,0.255 -0.162,0.399 -0.02,0.145 -0.004,0.292 0.048,0.428 0.038,0.143 0.11,0.274 0.209,0.384 0.099,0.11 0.222,0.195 0.36,0.249 0.29,0.097 0.605,0.097 0.895,0l2.634,-0.827c-0.517,-0.284 -0.907,-0.754 -1.09,-1.314 -0.144,-0.37 -0.193,-0.771 -0.142,-1.165 0.051,-0.393 0.2,-0.768 0.435,-1.089 0.532,-0.627 1.25,-1.07 2.05,-1.265l2.26,-0.714c0.805,-0.216 1.661,-0.129 2.406,0.243 0.358,0.185 0.675,0.44 0.932,0.749s0.449,0.667 0.565,1.052c0.14,0.404 0.19,0.833 0.148,1.259 -0.042,0.425 -0.176,0.837 -0.392,1.206 -0.424,0.745 -1.125,1.293 -1.952,1.524l-7.188,2.271c-0.622,0.169 -1.28,0.169 -1.902,0 -0.63,-0.138 -1.2,-0.473 -1.627,-0.957 -0.284,-0.327 -0.5,-0.708 -0.634,-1.119 -0.136,-0.406 -0.183,-0.836 -0.139,-1.261 0.045,-0.425 0.181,-0.836 0.4,-1.204 0.432,-0.737 1.13,-1.283 1.95,-1.525h0.277l0.716,2.06zM70.716,257.428c0.292,-0.075 0.55,-0.246 0.732,-0.486 0.08,-0.126 0.132,-0.268 0.15,-0.416 0.02,-0.147 0.007,-0.298 -0.038,-0.44 -0.045,-0.142 -0.12,-0.273 -0.221,-0.383 -0.101,-0.11 -0.225,-0.196 -0.363,-0.253 -0.285,-0.098 -0.594,-0.098 -0.878,0l-2.44,0.778c-0.18,0.052 -0.346,0.143 -0.486,0.266 -0.14,0.123 -0.252,0.276 -0.327,0.448 -0.081,0.197 -0.081,0.419 0,0.616 0.038,0.157 0.119,0.302 0.234,0.416 0.115,0.115 0.259,0.195 0.417,0.233 0.265,0.081 0.548,0.081 0.813,0l2.407,-0.779zM67.788,241.681c-0.195,-0.94 -0.732,-1.314 -1.626,-1.135l-0.797,0.162c-0.297,0.028 -0.584,0.124 -0.837,0.281 -0.254,0.156 -0.468,0.369 -0.626,0.622 -0.157,0.253 -0.254,0.539 -0.282,0.835 -0.028,0.296 0.012,0.595 0.119,0.873l-1.74,0.357c-0.035,-0.331 -0.146,-0.649 -0.323,-0.93 -0.178,-0.281 -0.418,-0.518 -0.702,-0.692 -0.547,-0.278 -1.177,-0.347 -1.772,-0.194h-0.31c-0.877,0.178 -1.235,0.648 -1.089,1.427 0.028,0.191 0.108,0.37 0.232,0.519 0.123,0.149 0.285,0.261 0.468,0.324 0.334,0.1 0.69,0.1 1.024,0h0.358l0.406,1.979h-0.309c-0.842,0.223 -1.737,0.137 -2.52,-0.244 -0.401,-0.212 -0.746,-0.514 -1.009,-0.883 -0.263,-0.369 -0.435,-0.794 -0.504,-1.241 -0.107,-0.428 -0.117,-0.874 -0.03,-1.306 0.087,-0.432 0.27,-0.839 0.534,-1.192 0.496,-0.642 1.216,-1.076 2.017,-1.216l0.57,-0.13c0.792,-0.171 1.62,-0.062 2.34,0.308 0.302,0.163 0.576,0.371 0.814,0.617 0.232,-0.687 0.669,-1.287 1.252,-1.72 0.372,-0.256 0.793,-0.433 1.236,-0.519l1.073,-0.21c0.459,-0.113 0.936,-0.125 1.4,-0.036 0.463,0.09 0.901,0.279 1.284,0.555 0.736,0.506 1.244,1.281 1.415,2.157 0.094,0.424 0.103,0.863 0.024,1.29 -0.079,0.428 -0.243,0.835 -0.483,1.199 -0.24,0.363 -0.55,0.674 -0.912,0.915 -0.363,0.241 -0.77,0.407 -1.199,0.488h-0.341l-0.553,-1.914 0.471,-0.129c0.31,-0.085 0.58,-0.274 0.765,-0.536 0.121,-0.205 0.178,-0.443 0.162,-0.681zM57.852,233.734h-0.325c-0.309,0.031 -0.596,0.169 -0.814,0.389 -0.102,0.106 -0.176,0.236 -0.215,0.377 -0.04,0.141 -0.044,0.291 -0.012,0.434 0.013,0.146 0.062,0.288 0.14,0.412 0.08,0.124 0.188,0.227 0.315,0.301 0.269,0.144 0.58,0.19 0.878,0.13l2.732,-0.389c-0.265,-0.219 -0.481,-0.49 -0.636,-0.796 -0.155,-0.306 -0.246,-0.64 -0.266,-0.983 -0.02,-0.342 0.032,-0.685 0.15,-1.006 0.12,-0.322 0.303,-0.616 0.54,-0.864 0.622,-0.536 1.395,-0.865 2.212,-0.941l2.342,-0.34c0.831,-0.103 1.67,0.118 2.342,0.616 0.327,0.236 0.602,0.537 0.809,0.882 0.207,0.346 0.341,0.73 0.394,1.129 0.073,0.421 0.053,0.852 -0.06,1.264 -0.112,0.412 -0.314,0.794 -0.59,1.12 -0.534,0.669 -1.312,1.1 -2.163,1.2l-7.464,1.103c-0.637,0.104 -1.29,0.031 -1.887,-0.211 -0.58,-0.246 -1.068,-0.665 -1.398,-1.2 -0.232,-0.363 -0.382,-0.773 -0.44,-1.2 -0.077,-0.421 -0.059,-0.853 0.054,-1.266 0.112,-0.412 0.317,-0.795 0.597,-1.118 0.534,-0.669 1.312,-1.1 2.163,-1.2h0.293l0.309,2.157zM65.3,234.723c0.3,-0.029 0.582,-0.161 0.797,-0.373 0.103,-0.105 0.18,-0.234 0.222,-0.375 0.043,-0.142 0.05,-0.291 0.022,-0.436 -0.014,-0.148 -0.065,-0.291 -0.147,-0.415 -0.082,-0.125 -0.194,-0.227 -0.325,-0.298 -0.266,-0.151 -0.577,-0.202 -0.878,-0.146l-2.52,0.373c-0.188,0.026 -0.367,0.092 -0.527,0.192 -0.16,0.101 -0.297,0.234 -0.4,0.391 -0.12,0.242 -0.139,0.52 -0.054,0.775 0.086,0.255 0.268,0.466 0.509,0.588 0.249,0.113 0.527,0.147 0.796,0.097l2.505,-0.373z"
+          android:fillColor="#fff"/>
+      <path
+          android:pathData="M374.77,210.834v4.136c-0.759,40.612 -16.851,79.443 -45.062,108.741l-0.261,0.276c-0.894,0.908 -1.789,1.832 -2.715,2.74 -17.265,17.03 -38.121,30.005 -61.049,37.983 -2.81,0.896 -5.861,0.661 -8.5,-0.655 -2.639,-1.316 -4.657,-3.61 -5.623,-6.39 -0.966,-2.78 -0.804,-5.827 0.453,-8.49 1.256,-2.663 3.507,-4.73 6.271,-5.759 19.732,-6.853 37.679,-18.019 52.527,-32.679 0.813,-0.811 1.626,-1.622 2.342,-2.368l0.195,-0.211c24.313,-25.214 38.188,-58.651 38.85,-93.626v-3.762c-0.223,-35.245 -13.887,-69.084 -38.216,-94.648l-0.179,-0.178 -0.098,-0.114c-0.699,-0.746 -1.463,-1.622 -2.26,-2.335 -11.851,-11.88 -25.756,-21.528 -41.046,-28.479 -2.643,-1.292 -4.676,-3.562 -5.667,-6.326 -0.99,-2.764 -0.861,-5.805 0.361,-8.475 1.223,-2.67 3.441,-4.76 6.185,-5.824 2.743,-1.064 5.794,-1.019 8.505,0.126 17.73,8.06 33.859,19.24 47.615,33.003l0.098,0.097c0.927,0.957 1.837,1.882 2.683,2.79l0.179,0.178c28.356,29.775 44.246,69.219 44.428,110.282l-0.016,-0.033z"
+          android:strokeAlpha="0.8"
+          android:fillAlpha="0.8">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:gradientRadius="21463.4"
+              android:centerX="43252.7"
+              android:centerY="-323087"
+              android:type="radial">
+            <item android:offset="0" android:color="#FFFFFFFF"/>
+            <item android:offset="1" android:color="#00FFFFFF"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+    </group>
+  </group>
+</vector>

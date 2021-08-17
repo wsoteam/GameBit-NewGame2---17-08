@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.main.MainActivity">
+
+    <ImageView
+        android:id="@+id/iv_background_game"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient_splash"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageView
+        android:id="@+id/iv_back_menu_from_game"
+        android:layout_width="51dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:padding="4dp"
+        android:src="@drawable/ic_btn_back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivRoulete"
+        android:layout_width="290dp"
+        android:layout_height="290dp"
+        android:layout_marginStart="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/roulette_lol1" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:layout_marginBottom="276dp"
+        android:src="@drawable/ic_tr_rul"
+        android:translationY="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/ivRoulete"
+        app:layout_constraintEnd_toEndOf="@+id/ivRoulete"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="@+id/ivRoulete"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="270dp"
+        android:fontFamily="@font/poppinsmed"
+        android:text="Balance amount"
+        android:textColor="#ffffff"
+        android:textSize="16.1sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="@+id/iv_background_game"
+        app:layout_constraintHorizontal_bias="0.798"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_you_sum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_rectangle_menu"
+        android:fontFamily="@font/poppinsmed"
+        android:textColor="#000000"
+        android:textSize="14.6sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="@+id/textView2"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/poppinsmed"
+        android:gravity="center"
+        android:text="Make a bet"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="@+id/llBet"
+        app:layout_constraintStart_toStartOf="@+id/llBet"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/llBet"
+        android:layout_width="290dp"
+        android:layout_height="39dp"
+        android:layout_gravity="center"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/ic_rectangle_sum"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3">
+
+        <ImageView
+            android:id="@+id/ivLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_left_bet" />
+
+
+        <com.shawnlin.numberpicker.NumberPicker
+            android:id="@+id/npBet"
+            android:layout_width="230dp"
+            android:layout_height="39dp"
+            android:layout_gravity="center_horizontal"
+            app:np_dividerColor="#00FFFFFF"
+            app:np_fadingEdgeEnabled="false"
+            app:np_orientation="horizontal"
+            app:np_selectedTextColor="#ffffff"
+            app:np_textColor="#66FFFFFF"
+            app:np_selectedTextSize="22sp"
+            app:np_textSize="21sp"
+            app:np_wheelItemCount="3" />
+
+        <ImageView
+            android:id="@+id/ivRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|center_vertical"
+            android:src="@drawable/ic_right_bet" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/poppinsmed"
+        android:text="Pick a number"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="@+id/llNumberRoulete"
+        app:layout_constraintStart_toStartOf="@+id/llNumberRoulete"
+        app:layout_constraintTop_toBottomOf="@+id/llBet" />
+
+
+    <LinearLayout
+        android:id="@+id/llNumberRoulete"
+        android:layout_width="290dp"
+        android:layout_height="39dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_rectangle_sum"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="@+id/llBet"
+        app:layout_constraintStart_toStartOf="@+id/llBet"
+        app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+        <ImageView
+            android:id="@+id/ivLeftNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_left_bet" />
+
+
+        <com.shawnlin.numberpicker.NumberPicker
+            android:id="@+id/npNumber"
+            android:layout_width="230dp"
+            android:layout_height="39dp"
+            android:layout_gravity="center_horizontal"
+            app:np_dividerColor="#00FFFFFF"
+            app:np_fadingEdgeEnabled="false"
+            app:np_orientation="horizontal"
+            app:np_selectedTextColor="#ffffff"
+            app:np_selectedTextSize="22sp"
+            app:np_textColor="#66FFFFFF"
+            app:np_textSize="21sp"
+            app:np_wheelItemCount="5" />
+
+        <ImageView
+            android:id="@+id/ivRightNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|center_vertical"
+            android:src="@drawable/ic_right_bet" />
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/tv_button_black"
+        android:layout_width="130dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/btn_black"
+        android:fontFamily="@font/poppinsmed"
+        android:gravity="center"
+        android:text="Black"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="@+id/llNumberRoulete"
+        app:layout_constraintTop_toBottomOf="@+id/llNumberRoulete" />
+
+    <TextView
+        android:id="@+id/tv_button_red"
+        android:layout_width="130dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/btn_red"
+        android:fontFamily="@font/poppinsmed"
+        android:gravity="center"
+        android:text="Red"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="@+id/llNumberRoulete"
+        app:layout_constraintStart_toEndOf="@+id/tv_button_black"
+        app:layout_constraintTop_toBottomOf="@+id/llNumberRoulete" />
+
+    <Button
+        android:id="@+id/tv_button_play"
+        android:layout_width="270dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/btn_play_rull"
+        android:fontFamily="@font/poppinsbold"
+        android:paddingTop="4dp"
+        android:text="PLAY NOW"
+        android:textColor="@color/selector_main_btn"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_button_red"
+        app:layout_constraintStart_toStartOf="@+id/tv_button_black"
+        app:layout_constraintTop_toBottomOf="@+id/tv_button_red"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
