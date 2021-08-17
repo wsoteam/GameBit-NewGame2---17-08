@@ -25,6 +25,7 @@ class SplashVM(application: Application) : AndroidViewModel(application) {
     private var status = MutableLiveData<Int>()
 
     private var isStartedOpen = false
+    ///
 
     private var appContext: App
         get() = getApplication<App>()
