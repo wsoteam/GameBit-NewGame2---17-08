@@ -11,7 +11,7 @@ object DBWorker {
 
 
         FirebaseDatabase
-            .getInstance("https://newgame2-1708-default-rtdb.firebaseio.com/")
+            .getInstance("https://gamebit-aeabc-default-rtdb.firebaseio.com/")
             .reference
             .child(path)
             .addListenerForSingleValueEvent(object : ValueEventListener {

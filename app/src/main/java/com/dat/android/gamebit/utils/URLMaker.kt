@@ -54,7 +54,7 @@ object URLMaker {
 
 
         var url = "${url}?sub_id_1=$sub_id_1&sub_id_2=$sub_id_2&sub_id_3=$sub_id_3&sub_id_4=$sub_id_4&sub_id_5=$sub_id_5&sub_id_6=$sub_id_6&afid=$afid&gadid=$gadid"
-        Log.e("LOL", url)
+        //Log.e("LOL", url)
         return url
     }
 

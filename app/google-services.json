@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "869283958121",
-    "firebase_url": "https://newgame2-1708-default-rtdb.firebaseio.com",
-    "project_id": "newgame2-1708",
-    "storage_bucket": "newgame2-1708.appspot.com"
+    "project_number": "372673946491",
+    "project_id": "gamebit-aeabc",
+    "storage_bucket": "gamebit-aeabc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:869283958121:android:489dbfd8ec0a602e61c1f8",
+        "mobilesdk_app_id": "1:372673946491:android:4c549466191a2fe4a353de",
         "android_client_info": {
           "package_name": "com.newmygamelol.games"
         }
       },
       "oauth_client": [
         {
-          "client_id": "869283958121-7ng6qievdts2t5bpvotmd450qbhsnduk.apps.googleusercontent.com",
+          "client_id": "372673946491-gv4kn2mnmf8hbad10u65jhpcfv5ndvge.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD3erOnr7o91Mr8cVXNBIBj8ONiM8cLHgs"
+          "current_key": "AIzaSyAttvJNatRjjqQ8Q52QWUQpQZ3_g8eMBzM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "869283958121-7ng6qievdts2t5bpvotmd450qbhsnduk.apps.googleusercontent.com",
+              "client_id": "372673946491-gv4kn2mnmf8hbad10u65jhpcfv5ndvge.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

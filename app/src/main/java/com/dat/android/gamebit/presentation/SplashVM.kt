@@ -94,7 +94,7 @@ class SplashVM(application: Application) : AndroidViewModel(application) {
                 override fun onConversionDataSuccess(data: MutableMap<String, Any>?) {
                     data?.let { cvData ->
                         cvData.map {
-                            Log.e("LOL", "conversion_attribute:  ${it.key} = ${it.value}")
+                            //Log.e("LOL", "conversion_attribute:  ${it.key} = ${it.value}")
                         }
 
                         naming = (data!![CAMPAIGN_TAG] ?: "empty") as String
